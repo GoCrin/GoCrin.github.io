@@ -1,4 +1,75 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_school]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>obsidian_school</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 20 May 2025 06:24:06 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 20 May 2025 06:23:55 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Webserver Windows Syt-BS]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_school]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>obsidian_school</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 20 May 2025 11:10:19 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 20 May 2025 11:10:17 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Syt-EL Test]]></title><description><![CDATA[ 
+ <br><br>
+<br>Pegelrechnung
+
+<br>dB (Paar werte auswendig)
+<br>-6dB / doppelter Abstand
+
+
+<br>Filter
+
+<br>Tiefpass
+<br>Hochpass
+<br>Bodediagramm: Betrag
+<br>Grenzfrequenz
+
+
+]]></description><link>calendar\2025-05-27.html</link><guid isPermaLink="false">Calendar/2025-05-27.md</guid><pubDate>Tue, 20 May 2025 08:41:15 GMT</pubDate></item><item><title><![CDATA[Filter]]></title><description><![CDATA[ 
+ <br><br>Zeitkonstante<br>
+<br>Grenzkreisfrequenz<br>
+Grenzfrequenz<br>
+]]></description><link>syt_el\filter.html</link><guid isPermaLink="false">SYT_EL/Filter.md</guid><pubDate>Tue, 20 May 2025 09:20:30 GMT</pubDate></item><item><title><![CDATA[Irgendwas log]]></title><description><![CDATA[ 
+ <br>log(10) = 1<br>log(10^2) = 2<br>
+log(10^3) = 3<br><img alt="Pasted image 20250401104413.png" src="lib\media\pasted-image-20250401104413.png"><br>
+<br>Diese mal 2 kommen von  (dritte Wurzel 10)<br>Was ist dezi?<br>
+x10<br> <br><br>
+An einem Widerstand hängen P und U, quadratisch zusammen<br><br>
+<br>G = 20 * lg(U2/U1)<br>G/20 = lg(U2/U1)<br>10^(G/20) = U2/U1<br>$U_2 / U_1 = $<br><br><br><br><br><br><br><br><br>L/20 = lg(U/1V)<br>
+u = 10^L/20 * 1V<br>Clipping: Signal ist lauter als obergrenze (digital)<br><br><br><img alt="Pasted image 20250408105125.png" src="lib\media\pasted-image-20250408105125.png"><br>
+<br>
+<br> (m für Leistungspegel -&gt; milli watt)
+<br>
+<br><br>
+Gesucht: 
+<br><br>
+ (vor logarithmieren war Subtraktion, Division -&gt; mW fällt weg)<br><br><br>
+<br><br><br>A= 6dB / Abstandsverdoppelung<br>
+Nach 10m -&gt; <br>
+Nach 20m -&gt; <br> und <br><br>Angabe:<br>
+Auf einer großen Freifläche soll im Abstand von 100m vom Lautsprecher ein Schalldruckpegel von 76dB SPL erreicht werden.<br>
+Berechnen Sie in welchem Abstand zum Lautsprecher die 100dB-Grenze überschritten wird.<br>100m -&gt; <br>
+?m -&gt; <br><br>24 / 6 = 4<br>
+-&gt; 4 mal halbieren<br>
+]]></description><link>syt_el\irgendwas-log.html</link><guid isPermaLink="false">SYT_EL/Irgendwas log.md</guid><pubDate>Tue, 20 May 2025 09:04:28 GMT</pubDate><enclosure url="lib\media\pasted-image-20250401104413.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250401104413.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wie verwend ich dieses Repository?]]></title><description><![CDATA[ 
+ <br><br><br>Gehe auf <a data-tooltip-position="top" aria-label="https://gocrin.github.io/school/readme.html" rel="noopener nofollow" class="external-link" href="https://gocrin.github.io/school/readme.html" target="_blank">meine Github Page</a>, wobei diese wahrscheinlich nicht sehr häufig aktualisiert wird. <br><br>Clone das Repository<br>git clone git@github.com:GoCrin/obsidian_school.git
+<br>Öffne Obsidian und unten auf den Knopf der den Namen deines jetzigen Vaults anzeigt. Drücke, "Manage vaults". Nun drücke "open" und wähle den zuvor geklonten Ordner.<br>Hier kommt noch was...<br><br>
+<br>Abgabe INSY Projekt: 22.5.2025
+
+<br>Git Beschreibung (screenshoots) Präsentieren
+
+
+<br>NWTI Test 28. 4. 2025
+
+<br>Statische Routen (Theorie &amp; Praxis ohne Befehle)
+<br><a data-href="VLANS" href="nwti\vlans.html" class="internal-link" target="_self" rel="noopener nofollow">VLANS</a>
+<br><a data-href="VPN" href="nwti\vpn.html" class="internal-link" target="_self" rel="noopener nofollow">VPN</a> (Überblick)
+
+
+<br>ITP Test 23.5.2025
+
+<br>Feedback geben (Stichwort <a data-tooltip-position="top" aria-label="https://projekte-leicht-gemacht.de/blog/softskills/kommunikation/richtig-feedback-geben-der-feedback-burger/" rel="noopener nofollow" class="external-link" href="https://projekte-leicht-gemacht.de/blog/softskills/kommunikation/richtig-feedback-geben-der-feedback-burger/" target="_blank">Feedback Burger</a>)
+
+
+<br>UML Diagramme, Übersicht und Einteilung in Struktur- und Verhaltensdiagramme, Klassendiagramme (Klassen zeichnen, Assoziation, Aggregation, Komposition, Navigation, Mulitiplizität)
+<br><a data-href="Kano-Modell" href="itp\kano-modell.html" class="internal-link" target="_self" rel="noopener nofollow">Kano-Modell</a> mit den 5 Merkmalen
+<br><a data-href="Projekte" href="itp\projekte.html" class="internal-link" target="_self" rel="noopener nofollow">Projekte</a> inkl. Projektinstitutionen und Projektmerkmalen
+<br><a data-href="Magisches Projektdreieck" href="itp\magisches-projektdreieck.html" class="internal-link" target="_self" rel="noopener nofollow">Magisches Projektdreieck</a> (inkl. Erweiterung)
+<br><a data-href="Unternehmensorganisationen" href="itp\unternehmensorganisationen.html" class="internal-link" target="_self" rel="noopener nofollow">Unternehmensorganisationen</a> (grober Überblick mit den 2 Hauptorganisationen)
+<br><a data-href="Projektorganisation" href="itp\projektorganisation.html" class="internal-link" target="_self" rel="noopener nofollow">Projektorganisation</a> (3 Formen)
+
+
+<br>SYT-EL Test <a data-href="2025-05-27" href="calendar\2025-05-27.html" class="internal-link" target="_self" rel="noopener nofollow">2025-05-27</a>
+]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Tue, 20 May 2025 08:42:00 GMT</pubDate></item><item><title><![CDATA[Webserver Windows Syt-BS]]></title><description><![CDATA[ 
  <br>Datum: 8.5.25<br><br>Installation des IIS unter Windows&nbsp;<br>
 <br>Eigene Homepage mittels PHP erstellen (index.php)
 <br>Ausgabe auf der Webseite von "Hello World"&nbsp; bei Aufruf der Seite
@@ -1101,54 +1172,5 @@ tiefe Frequenz -&gt; wird weg geschnitten<br>Diagramm einfügen<br>Steigung von 
 <br>
 <br><br>skizze einfügen<br> -&gt; 0:  -&gt; 0 =&gt; <br>
  -&gt; :  -&gt;  =&gt; <br>diagramm einfügen<br>0dB -&gt; grenzfrequenz  () -&gt; -20dB/Dekade oder -6dB/Oktave<br><br>skizze einfügen<br> -&gt; 0:  -&gt; 0 =&gt; <br>
- -&gt; :  -&gt;  =&gt; <br>diagramm einfügen<br>20dB/Dekade oder 6dB/Oktave -&gt; 0dB -&gt; grenzfrequenz  ()]]></description><link>syt_el\frequenz-abhängigkeiten.html</link><guid isPermaLink="false">SYT_EL/Frequenz abhängigkeiten.md</guid><pubDate>Tue, 06 May 2025 09:13:16 GMT</pubDate><enclosure url="lib\media\pasted-image-20250422105334.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250422105334.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Irgendwas log]]></title><description><![CDATA[ 
- <br>log(10) = 1<br>log(10^2) = 2<br>
-log(10^3) = 3<br><img alt="Pasted image 20250401104413.png" src="lib\media\pasted-image-20250401104413.png"><br>
-<br>Diese mal 2 kommen von  (dritte Wurzel 10)<br>Was ist dezi?<br>
-x10<br> <br><br>
-An einem Widerstand hängen P und U, quadratisch zusammen<br><br>
-<br>G = 20 * lg(U2/U1)<br>G/20 = lg(U2/U1)<br>10^(G/20) = U2/U1<br>$U_2 / U_1 = $<br><br><br><br><br>Clipping: Signal ist lauter als obergrenze (digital)<br><br><br><img alt="Pasted image 20250408105125.png" src="lib\media\pasted-image-20250408105125.png"><br>
-<br>
-<br> (m für Leistungspegel -&gt; milli watt)
-<br>
-<br><br>
-Gesucht: 
-<br><br>
- (vor logarithmieren war Subtraktion, Division -&gt; mW fällt weg)<br><br><br>
-<br><br><br>A= 6dB / Abstandsverdoppelung<br>
-Nach 10m -&gt; <br>
-Nach 20m -&gt; <br> und <br><br>Angabe:<br>
-Auf einer großen Freifläche soll im Abstand von 100m vom Lautsprecher ein Schalldruckpegel von 76dB SPL erreicht werden.<br>
-Berechnen Sie in welchem Abstand zum Lautsprecher die 100dB-Grenze überschritten wird.<br>100m -&gt; <br>
-?m -&gt; <br><br>24 / 6 = 4<br>
--&gt; 4 mal halbieren<br>
-]]></description><link>syt_el\irgendwas-log.html</link><guid isPermaLink="false">SYT_EL/Irgendwas log.md</guid><pubDate>Tue, 06 May 2025 09:21:59 GMT</pubDate><enclosure url="lib\media\pasted-image-20250401104413.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250401104413.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[TEST]]></title><description><![CDATA[ 
- <br>]]></description><link>syt_el\test.html</link><guid isPermaLink="false">SYT_EL/TEST.md</guid><pubDate>Tue, 29 Apr 2025 08:43:55 GMT</pubDate></item><item><title><![CDATA[Wie verwend ich dieses Repository?]]></title><description><![CDATA[ 
- <br><br><br>Gehe auf <a data-tooltip-position="top" aria-label="https://gocrin.github.io/school/readme.html" rel="noopener nofollow" class="external-link" href="https://gocrin.github.io/school/readme.html" target="_blank">meine Github Page</a>, wobei diese wahrscheinlich nicht sehr häufig aktualisiert wird. <br><br>Clone das Repository<br>git clone git@github.com:GoCrin/obsidian_school.git
-<br>Öffne Obsidian und unten auf den Knopf der den Namen deines jetzigen Vaults anzeigt. Drücke, "Manage vaults". Nun drücke "open" und wähle den zuvor geklonten Ordner.<br>Hier kommt noch was...<br><br>
-<br>Abgabe INSY Projekt: 22.5.2025
-
-<br>Git Beschreibung (screenshoots) Präsentieren
-
-
-<br>NWTI Test 28. 4. 2025
-
-<br>Statische Routen (Theorie &amp; Praxis ohne Befehle)
-<br><a data-href="VLANS" href="nwti\vlans.html" class="internal-link" target="_self" rel="noopener nofollow">VLANS</a>
-<br><a data-href="VPN" href="nwti\vpn.html" class="internal-link" target="_self" rel="noopener nofollow">VPN</a> (Überblick)
-
-
-<br>ITP Test 23.5.2025
-
-<br>Feedback geben (Stichwort <a data-tooltip-position="top" aria-label="https://projekte-leicht-gemacht.de/blog/softskills/kommunikation/richtig-feedback-geben-der-feedback-burger/" rel="noopener nofollow" class="external-link" href="https://projekte-leicht-gemacht.de/blog/softskills/kommunikation/richtig-feedback-geben-der-feedback-burger/" target="_blank">Feedback Burger</a>)
-
-
-<br>UML Diagramme, Übersicht und Einteilung in Struktur- und Verhaltensdiagramme, Klassendiagramme (Klassen zeichnen, Assoziation, Aggregation, Komposition, Navigation, Mulitiplizität)
-<br><a data-href="Kano-Modell" href="itp\kano-modell.html" class="internal-link" target="_self" rel="noopener nofollow">Kano-Modell</a> mit den 5 Merkmalen
-<br><a data-href="Projekte" href="itp\projekte.html" class="internal-link" target="_self" rel="noopener nofollow">Projekte</a> inkl. Projektinstitutionen und Projektmerkmalen
-<br><a data-href="Magisches Projektdreieck" href="itp\magisches-projektdreieck.html" class="internal-link" target="_self" rel="noopener nofollow">Magisches Projektdreieck</a> (inkl. Erweiterung)
-<br><a data-href="Unternehmensorganisationen" href="itp\unternehmensorganisationen.html" class="internal-link" target="_self" rel="noopener nofollow">Unternehmensorganisationen</a> (grober Überblick mit den 2 Hauptorganisationen)
-<br><a data-href="Projektorganisation" href="itp\projektorganisation.html" class="internal-link" target="_self" rel="noopener nofollow">Projektorganisation</a> (3 Formen)
-
-
-]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Tue, 20 May 2025 06:20:40 GMT</pubDate></item></channel></rss>
+ -&gt; :  -&gt;  =&gt; <br>diagramm einfügen<br>20dB/Dekade oder 6dB/Oktave -&gt; 0dB -&gt; grenzfrequenz  ()]]></description><link>syt_el\frequenz-abhängigkeiten.html</link><guid isPermaLink="false">SYT_EL/Frequenz abhängigkeiten.md</guid><pubDate>Tue, 06 May 2025 09:13:16 GMT</pubDate><enclosure url="lib\media\pasted-image-20250422105334.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250422105334.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[TEST]]></title><description><![CDATA[ 
+ <br>]]></description><link>syt_el\test.html</link><guid isPermaLink="false">SYT_EL/TEST.md</guid><pubDate>Tue, 29 Apr 2025 08:43:55 GMT</pubDate></item></channel></rss>
