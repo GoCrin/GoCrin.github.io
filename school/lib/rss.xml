@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_school]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>obsidian_school</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 20 May 2025 06:14:17 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 20 May 2025 06:14:05 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Webserver Windows Syt-BS]]></title><description><![CDATA[ 
+ <br>Datum: 8.5.25<br><br>Installation des IIS unter Windows&nbsp;<br>
+<br>Eigene Homepage mittels PHP erstellen (index.php)
+<br>Ausgabe auf der Webseite von "Hello World"&nbsp; bei Aufruf der Seite
+<br>Konfiguration damit die Seite über php.3bhtis.local aufrufbar ist
+<br>notwendige config für IIS
+<br><br>Im Server-Manager<br>
+<br>Verwalten
+<br>Rollen und Features hinzufügen
+<br>3x weiter
+<br>Features hinzufügen
+<br>so oft "weiter" wie geht
+<br>Installieren
+<br>nach Installation!! schließen
+<br>Konfiguration (als Start wieder Server-Manager)<br>
+<br>Tools
+<br>Internetinformationsdienste (IIS)-Manager
+<br>Win-... aufklappen
+<br>Websites aufklappen
+<br>RMB (rechte Maustaste) auf Websites
+<br>Webseite hinzufügen
+<br>Sitename: z.B. "aufgabe"
+<br>Physischer Pfad: irgendeiner (sollte wahrscheinlich leerer Folder sein)
+<br>Bindung:
+
+<br>Typ: http
+<br>IP-Addresse: eigene
+<br>Port: 80
+<br>Hostname: php.3bhtis.local
+
+
+<br>C:
+]]></description><link>aufgaben\webserver-windows-syt-bs.html</link><guid isPermaLink="false">Aufgaben/Webserver Windows Syt-BS.md</guid><pubDate>Thu, 08 May 2025 12:55:09 GMT</pubDate></item><item><title><![CDATA[ITP Test]]></title><description><![CDATA[ 
+ <br>]]></description><link>calendar\2025-05-23.html</link><guid isPermaLink="false">Calendar/2025-05-23.md</guid><pubDate>Mon, 19 May 2025 17:45:54 GMT</pubDate></item><item><title><![CDATA[Deutsch 8 Fragen]]></title><description><![CDATA[ 
+ <br>
+<br>
+Was haben wir letze Stunde gemacht?
+
+<br>
+Wie ist die Meinungsrede aufgebaut
+
+<br>
+Was steht im Hauptteil der Meinungsrede
+
+<br>
+Aus welchen Teilen bestehen Argumente wenn die 3B Regel befolgt wird
+
+<br>
+Welche art von Maturareise würdest du nehmen
+
+<br>
+Wo wird die Schularbeit stattfinden
+
+<br>
+Denkst du, dass du für die Schularbeit gut vorbereitet bist
+
+<br>
+Was war das Thema der freiwilligen&nbsp;Hausübung
+21.10. 2024
+
+<br>
+Was haben wir letzte Stunde gemacht?
+
+<br>
+Wo haben wir die Schularbeit geschrieben?
+
+<br>
+Welche Themen gab es bei der Schularbeit?
+
+<br>
+Welches Thema fandest du besser?
+
+<br>
+Worum ging es in dem Ausgangstext?
+
+<br>
+Wie viele Wörter musstest du schreiben?
+
+<br>
+Hast du ein gutes Gefühl?
+
+<br>
+Wo her stammt der Artikel den du gelesen hast?
+24.10. 2024
+
+<br>
+Was haben wir letzte Stunde gemacht?
+
+<br>
+Was ist das Ziel der Meinungsrede?
+
+<br>
+Nenne 2 Phasen des Vortrags
+
+<br>
+Zu welchem Anlass gab Obama die Rede die wir gelesen haben
+
+<br>
+Nenne 1 Punkt den Obama angesprochen hat?
+
+<br>
+Welche Themen gab es bei der Schularbeit?
+
+<br>
+Aus welchen teilen besteht die Deutsch Note?
+
+<br>
+Findest du die Benotung gerecht?
+
+<br>7.11. 2024<br>
+<br>Was haben wir letzte Stunde gemacht?
+<br>Worum ging es in den Kurzpräsentationen?
+<br>Nenne eine Person die schon präsentiert hat
+<br>Was bedeutet Mimik?
+<br>Hast du heute vor zu Präsentieren?
+<br>Wozu denkst du dienen die Präsentationen
+<br>Wessen Rede haben wir gelesen 
+<br>Welche Themen gab es bei der Schularbeit<br>
+14.11. 2024
+<br>Was haben wir letzte Stunde gemacht?
+<br>Worum ging es in den Kurzpräsentationen?
+<br>Was bedeutet Mimik?
+<br>Wie ging es dir beim Präsentieren? / Hast du vor, heute zu Präsentieren?
+<br>Was ist die W-Technik
+<br>Wie findest du das Thema
+<br>2.12. 2024<br>
+<br>Was haben wir letzte Stunde gemacht?
+<br>Wie sind Elfchen aufgebaut?
+<br>Über was hast du ein Elfchen geschrieben?
+<br>BRING DICH UM
+]]></description><link>deutsch\deutsch-8-fragen.html</link><guid isPermaLink="false">Deutsch/Deutsch 8 Fragen.md</guid><pubDate>Tue, 20 May 2025 06:14:06 GMT</pubDate></item><item><title><![CDATA[e auto]]></title><description><![CDATA[ 
+ <br>stellts euch vor und wo für ihr heute steht.<br><br>Tesla DE nimmt 100% l<br>]]></description><link>deutsch\e-auto.html</link><guid isPermaLink="false">Deutsch/e auto.md</guid><pubDate>Tue, 20 May 2025 06:14:06 GMT</pubDate></item><item><title><![CDATA[Feedback Annika - Christine Nöstlinger]]></title><description><![CDATA[ 
+ <br><br>Gelassen<br><br>Fast zu leise<br><br>Meist in Richtung Holly<br><br>Wackelt]]></description><link>deutsch\feedback-annika-christine-nöstlinger.html</link><guid isPermaLink="false">Deutsch/Feedback Annika - Christine Nöstlinger.md</guid><pubDate>Tue, 20 May 2025 06:14:06 GMT</pubDate></item><item><title><![CDATA[Feedback Danylo - Wolfgang von Goethe]]></title><description><![CDATA[ 
+ <br><br>Wackelt<br><br>Perfekt<br><br>Sehr viel auf Laptop<br><br>Spielt viel mit Händen (nervös)]]></description><link>deutsch\feedback-danylo-wolfgang-von-goethe.html</link><guid isPermaLink="false">Deutsch/Feedback Danylo - Wolfgang von Goethe.md</guid><pubDate>Tue, 20 May 2025 06:14:06 GMT</pubDate></item><item><title><![CDATA[Entnazifizierung, Restitution und Versöhnung]]></title><description><![CDATA[ 
+ <br><br>
+<br>1945 Alliierten beschließen Verbotsgesetz, verbietet NSDAP
+<br>Auftrag der Entnazifizierung wird 1947 an Österreichische Behörden weiter gegeben
+<br>Um Registrierung als NSDAP-Mitglied zu entgehen wurden Persilscheine verwendet
+<br>darauf folgten schrittweise Amnestien
+<br><br>Nationalsozialisten wurden in Internierungslagern inhaftiert. Die größten Lager waren:<br>
+<br>Marcus W. Orr in Glasenbach bei Salzburg (US-Zone)
+<br>Camp 373 in Wolfsberg bei Kärnten (britische Zone)
+<br>Oradour bei Schwaz in Tirol (französische Zone)
+<br>17. Februar 1947: Nationalsozialistengesetz tritt in kraft. Österreichische Behörden stufen 90% der NSDAP-Mitglieder als minderbelastet ein -&gt; erhalten Wahlrecht, werden beruflich rehabilitiert und amnestiert.<br><br>Wiedergutmachung nicht möglich. Es kommt zur finanziellen Entschädigung oder zur Rückgabe (Restitution) von "arisiertem" Vermögen.<br>8. Juli 1991 erkannte Bundeskanzler Franz Vranitzky, Mitschuld an Verbrechen des Nationalsozialismus, österreichischer BürgerInnen an.<br>1995 wird Nationalfonds eingerichtet, welcher Gestenzahlungen an alle NS-Opfer vergibt. darunter fallen z.B. "Kinder vom Spiegelgrund" und Homosexuelle.<br>Weitere Fonds wurden später eingerichtet wie:<br>
+<br>Allgemein Entschädigungsfonds
+<br>Fonds zur Instandhaltung der jüdischen Friedhöfe
+<br>Versöhnungsfonds
+<br>Einberufungen zur Wehrmacht hatten Arbeitskräftemangel zur folge. Dieser wurde durch 1 Million ZwangsarbeiterInnen gelöst. einer der Firmen die Arbeiter von der SS kaufte war Reichswerke Hermann Göring (später VOEST)<br>Heutige VOEST hat eine Ausstellung auf Basis von 38.000 Personalakten aus der NS-Zeit<br>1998 wird Kunstrückgabegesetz eingeführt, welches verlangt Kunstgegenstände, Gemälde, Bücher und Möbel zurück zugeben.<br>136 - 146]]></description><link>ggp\entnazifizierung,-restitution-und-versöhnung.html</link><guid isPermaLink="false">GGP/Entnazifizierung, Restitution und Versöhnung.md</guid><pubDate>Mon, 19 May 2025 11:23:47 GMT</pubDate></item><item><title><![CDATA[Papst Franziskus]]></title><description><![CDATA[ 
+ <br>Geburtsname: Jarge Mario Bergoglio<br>
+Geburtsort / -Datum: 17.12.1936 in Buenos Aires (Argentinien)<br>
+-&gt; seit 13.3.2013 Papst<br>
+Erster Papst aus Südamerika<br>
+Er ist Jesuit<br>
+Sein Credo (= Motto) -&gt; Aus Erbarmen erwählt<br><br><br>
+<br>Bescheidenheit, Bodenständigkeit
+<br>Besonders menschennah
+<br>Verzicht auf Prunk -&gt; Lebte in kleinem Gästehaus
+<br>Kleine Symbolik war ihm wichtiger als machtvolle Inszenierung
+<br>"Arme Kirche für Arme"
+<br><br>
+<br>soziale Gerechtigkeit, Umwelt, Klima, Migranten
+<br>Barmherzigkeit statt dogmatische Strenge
+<br>Öffnung bestimmter Themen (Homosexualität, Frauenweihe)
+<br>Gleichheit vor dem Kirchenrecht für Bischofe und Kardinäle 
+<br><br>
+<br>Verwaltungsreform im Vatikan
+<br>2023 Zulassung zur Segnung von homosexuellen Paaren
+<br>Fördert Diskussionskultur
+<br><br>
+<br>Reformen zu zaghaft / zu radikal
+<br>Er schürt indirekt die Spannungen zwischen Konservativen und Progressiven
+<br>Gewisse Themen wurden nur indirekt behandelt: Frauenweihe Zölibat<br>
+XVI
+<br>Tür-an-Tür
+<br>waren meist unterschiedlicher Meinung
+<br>Franziskus nannte ihn "weiser Großvater"
+<br><br><br><br>
+<br>nur Kardinäle &lt; 80 Jahre dürfen wählen
+<br>zur Wahl dürfen sich alle getauften Christen über 18 aufstellen
+<br>Wahl findet meist in Sixtinischen Kapelle statt
+<br>Wahlversammlung =&gt; Konklave
+<br>während Konklave sind Kardinäle von Außenwelt abgeschottet 
+<br>ca. 2,5 Wochen nach Tod des Papst
+<br><br>
+<br>Messe
+<br>Einschluss in Konklave
+<br>Wahlen (2 Vormittag, 2 Nachmittag)
+<br>geheim, laut ausgezählt
+<br> Mehrheit damit endgültiges Ergebnis feststeht, sonst am darauffolgenden Tag neue Wahlen
+<br>Wahlzettel werden verbrannt. Es wird eine chemische Substanz hinzugefügt damit Rauch weiß (Wahl erfolgreich, Papst wird unter neuem Papstnamen am selben Tag vorgestellt) oder schwarz (Wahl nicht erfolgreich)
+]]></description><link>ggp\papst-franziskus.html</link><guid isPermaLink="false">GGP/Papst Franziskus.md</guid><pubDate>Wed, 30 Apr 2025 06:51:04 GMT</pubDate></item><item><title><![CDATA[1.ITP-Test]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Buch: Scrum auf Bierdeckel
+
+<br>Personen-Rollen
+<br>Ergebnisse-Artefakte
+<br>Termine-Meetings
+
+
+<br>Perspektiven wie im Buch beschrieben - Produkt-, Entwickungs- und Verbesserungsperspektive
+<br>Dokumente (pdf) aus Projekte-leicht-gemacht
+<br><a data-href="Agiles Manifest" href="itp\agiles-manifest.html" class="internal-link" target="_self" rel="noopener nofollow">Agiles Manifest</a> (4 Werte mit den 12 Prinzipen in der Anwendung)
+<br><br>Fragen in meetings an schauen]]></description><link>itp\1.itp-test.html</link><guid isPermaLink="false">ITP/1.ITP-Test.md</guid><pubDate>Tue, 06 May 2025 10:55:34 GMT</pubDate></item><item><title><![CDATA[Agiles Manifest]]></title><description><![CDATA[ 
+ <br>(4 Werte mit den 12 Prinzipen in der Anwendung) -&gt; laut Teststoff<br>Es setzt sich aus 4 Wertaussagen und 12 Prinzipien zusammen die notwendig sind um agile Vorgehensweisen möglich zu machen. Als Nachteil haben diese jedoch, dass sie den Beteiligten teile ihrer Sicherheit wegnehmen.<br><br>
+<br>Individuen und Interaktionen &gt;&gt;&gt; Prozesse und Werkzeuge
+<br>Funktionierende Software &gt;&gt;&gt; umfassende Dokumentation
+<br>Zusammenarbeit mit dem Kunden &gt;&gt;&gt; Vertragsverhandlungen
+<br>Reagieren auf Veränderungen &gt;&gt;&gt; Befolgen des Plans
+<br><br>
+<br>Unsere höchste Priorität ist es, den Kunden durch frühe und kontinuierliche Auslieferung wertvoller Software zufriedenzustellen.
+<br>Heiße Anforderungsänderungen selbst spät in der Entwicklung willkommen! Agile Prozesse nutzen Veränderungen zum Wettbewerbsvorteil des Kunden.
+<br>Liefere funktionierende Software regelmäßig innerhalb weniger Wochen oder Monate und bevorzuge dabei die kürzere Zeitspanne!
+<br>Fachexperten und Entwickler müssen während des Projektes täglich zusammenarbeiten.
+<br>Errichte Projekte rund um motivierte Individuen! Gib ihnen das Umfeld und die Unterstützung, die sie benötigen, und vertraue darauf, dass sie die Aufgabe erledigen!
+<br>Die effizienteste und effektivste Methode, Informationen an und innerhalb eines Entwicklungsteams zu übermitteln, ist im Gespräch von Angesicht zu Angesicht.
+<br>Funktionierende Software ist das wichtigste Fortschrittsmaß.
+<br>Agile Prozesse fördern nachhaltige Entwicklung. Die Auftraggeber, Entwickler und Benutzer sollten ein gleichmäßiges Tempo auf unbegrenzte Zeit halten können.
+<br>Ständiges Augenmerk auf technische Exzellenz und gutes Design fördert Agilität.
+<br>Einfachheit – die Kunst, die Menge nicht getaner Arbeit zu maximieren – ist essenziell.
+<br>Die besten Architekturen, Anforderungen und Entwürfe entstehen durch selbstorganisierte Teams.
+<br>In regelmäßigen Abständen reflektiert das Team, wie es effektiver werden kann, und passt sein Verhalten entsprechend an.
+]]></description><link>itp\agiles-manifest.html</link><guid isPermaLink="false">ITP/Agiles Manifest.md</guid><pubDate>Tue, 06 May 2025 10:55:35 GMT</pubDate></item><item><title><![CDATA[Cross functional]]></title><description><![CDATA[ 
+ <br>= inter disziplinär<br>
+In verschiedensten Fertigkeiten spezaliesiert]]></description><link>itp\cross-functional.html</link><guid isPermaLink="false">ITP/Cross functional.md</guid><pubDate>Tue, 06 May 2025 10:55:36 GMT</pubDate></item><item><title><![CDATA[Daily Scrum]]></title><description><![CDATA[ 
+ <br>Dauert nicht länger als 15 Minuten.<br>
+Findet im besten fall in der Früh statt.<br>
+Jeder Entwickler sagt:<br>
+Was habe ich gestern gemacht?<br>
+Was werde ich heute machen?<br>
+Was hindert mich daran meine heutigen Ziele umzusetzen? (Meist technische Probleme die an Scrum Master gehen)<br>
+Diese fragen werden von jedem Entwickler in 2 Minuten beantwortet.<br>
+Sollten einzelne Anliegen zwischen Entwicklern länger dauern, sollen die außerhalb des Daily Scrum geklärt werden.<br>
+PO nimmt optional teil (z.B. wen Userstory nicht klar ist)]]></description><link>itp\daily-scrum.html</link><guid isPermaLink="false">ITP/Daily Scrum.md</guid><pubDate>Tue, 06 May 2025 10:55:35 GMT</pubDate></item><item><title><![CDATA[Entwicklerteam]]></title><description><![CDATA[ 
+ <br>Sie wählen Userstorries aus dem Produktbacklog die sie in einem Sprint umsetzen können. Diese stehen im Sprintbacklog.]]></description><link>itp\entwicklerteam.html</link><guid isPermaLink="false">ITP/Entwicklerteam.md</guid><pubDate>Tue, 06 May 2025 10:55:38 GMT</pubDate></item><item><title><![CDATA[Events (Meetings) in Scrum]]></title><description><![CDATA[ 
+ <br>]]></description><link>itp\events-(meetings)-in-scrum.html</link><guid isPermaLink="false">ITP/Events (Meetings) in Scrum.md</guid><pubDate>Tue, 06 May 2025 10:55:38 GMT</pubDate></item><item><title><![CDATA[Kano-Modell]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://asana.com/de/resources/what-is-kano-model" target="_blank">https://asana.com/de/resources/what-is-kano-model</a><br><br>Kundenzufriedenheit<br>
+<br>Hygienefaktoren<br>
+Wenn diese Faktoren nicht erfüllt werden, entsteht eine Unzufriedenheit bei Mitarbeitern (wenn vorhanden müssen trotzdem nicht zufrieden sein)
+<br>Motivationsfaktoren<br>
+Müssen vorhanden sein, damit Zufriedenheit entsteht (bei Abwesenheit muss nicht zwingend Unzufriedenheit entstehen)
+<br><br>
+<br>Y-Achse: Kundenzufriedenheit
+
+<br>positiv: hoch
+<br>negativ: wenig
+
+
+<br>X-Achse: Erfüllungsgrad
+
+<br>positiv: hoch
+<br>negativ: wenig
+
+
+<br><img alt="Pasted image 20250321110306.png" src="lib\media\pasted-image-20250321110306.png"><br>
+<br>Basismerkmale (expected requirements)
+<br>Leistungsmerkmale (normal requirements)
+<br>Begeisterungsmerkmale (delightful requirements)
+<br>Unerheblichemerkmale
+<br>Rückweisungsmerkmale
+]]></description><link>itp\kano-modell.html</link><guid isPermaLink="false">ITP/Kano-Modell.md</guid><pubDate>Mon, 19 May 2025 17:14:44 GMT</pubDate><enclosure url="lib\media\pasted-image-20250321110306.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250321110306.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Magisches Projektdreieck]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://projekte-leicht-gemacht.de/blog/projektmanagement/das-magische-dreieck-im-projektmanagement" rel="noopener nofollow" class="external-link" href="https://projekte-leicht-gemacht.de/blog/projektmanagement/das-magische-dreieck-im-projektmanagement" target="_blank">Projekte leicht gemacht: Magisches Dreieck</a><br><br><img alt="magisches-dreieck-1.jpg" src="lib\media\magisches-dreieck-1.jpg"><br><br>Es gilt diese 3 Größen zu balancieren.<br>
+Viele Probleme in Projekten können mit diesem Dreieck beschrieben wie z.B.<br>
+<br>Ein fester Endtermin für die Fertigstellung eines Hauses ist anvisiert, dieser wackelt allerdings. Ein Budget gibt es natürlich auch. Lösungsmöglichkeiten: Mehr Leute hinzuziehen, die Bauarbeiter länger arbeiten lassen, usw. Funktioniert wunderbar – würde das nicht aufs Budget schlagen. Hier haben wir einen traditionellen Konflikt zwischen Kosten und Zeit.
+<br><br><img alt="magisches-dreieck-2.jpg" src="lib\media\magisches-dreieck-2.jpg"><br>Die 4. Dimension ist die Kundenzufriedenheit. Diese beschreibt die verschiedenen Interessen der Stakeholder. Diese gilt es auch zu balancieren.]]></description><link>itp\magisches-projektdreieck.html</link><guid isPermaLink="false">ITP/Magisches Projektdreieck.md</guid><pubDate>Mon, 19 May 2025 17:21:19 GMT</pubDate><enclosure url="lib\media\magisches-dreieck-1.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\magisches-dreieck-1.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Phasenmodell]]></title><description><![CDATA[ 
+ <br>Eingeteilt in folgende Phasen<br><br>Anforderungen<br><br>Entwurfsdokumente<br><br>fertig?!]]></description><link>itp\phasenmodell.html</link><guid isPermaLink="false">ITP/Phasenmodell.md</guid><pubDate>Tue, 06 May 2025 10:55:39 GMT</pubDate></item><item><title><![CDATA[Product Owner]]></title><description><![CDATA[ 
+ <br>Er kommuniziert mit dem Auftraggeber und fasst die Wünsche in einem Produktbacklog Zusammen.<br><br>
+<br>Produktvision erstellen und Ziel definieren
+<br>Produktvision und -ziel an Stakeholder und Entwickler:innen kommunizieren
+<br>User Stories schreiben
+<br>
+]]></description><link>itp\product-owner.html</link><guid isPermaLink="false">ITP/Product Owner.md</guid><pubDate>Tue, 06 May 2025 10:55:40 GMT</pubDate></item><item><title><![CDATA[Projekte]]></title><description><![CDATA[ 
+ <br><br><a rel="noopener nofollow" class="external-link" href="https://projekte-leicht-gemacht.de/blog/projektmanagement/definition-projekt" target="_blank">https://projekte-leicht-gemacht.de/blog/projektmanagement/definition-projekt</a><br>DIN 69901<br>
+Deutsches Institut für Normung<br>
+Grundlagen, Prozesse, Methoden &amp; Begriffe im Projekt-Management<br>IPMA<br>
+International project management association<br>
+Europa --&gt; PMA (Project management Austria)<br>PMI<br>
+Project management institute<br>
+US &amp; International<br><br>Das Gegenteil eines Projekts ist: Prozesse/Tagesabläufe/Routinegeschäft<br><img alt="Pasted image 20250321112515.png" src="lib\media\pasted-image-20250321112515.png"><br>Zielvorgabe<br>
+z.B. nach SMART-Modell (Spezifisch, Messbar, Attraktiv/Akzeptiert, Realistisch und Terminiert)<br>Zeitliche Befristung<br>
+Start &amp; Ende<br>Komplex<br>beschränkte Ressourcen<br>
+Personen sind in IT-Unternehmen die wichtigste Ressource, sie sind beschränkt und haben verschiedene stärken<br>Risiko-behaftet]]></description><link>itp\projekte.html</link><guid isPermaLink="false">ITP/Projekte.md</guid><pubDate>Fri, 09 May 2025 09:05:36 GMT</pubDate><enclosure url="lib\media\pasted-image-20250321112515.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250321112515.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Projektorganisation]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/projektorganisationsformen" rel="noopener nofollow" class="external-link" href="https://projekte-leicht-gemacht.de/blog/methoden/projektorganisation/projektorganisationsformen" target="_blank">Projekte leicht gemacht: Projekorganisation</a><br>Hier wird zwischen 3 Projektorganisationsformen unterschieden wobei mit Stammorganisation die Aufbauorganisation (<a data-href="Unternehmensorganisationen" href="itp\unternehmensorganisationen.html" class="internal-link" target="_self" rel="noopener nofollow">Unternehmensorganisationen</a>) gemeint ist<br><br><img alt="stabsorganisation.jpg" src="lib\media\stabsorganisation.jpg"><br>
+<br>Stabstelle: sehr nahe an der Geschäftsführung, Assistentinnen und Assistenten, Projektleiter ist in dieser Position
+<br>Projektleiter ist kein disziplinärer Vorgesetzter (kein Weisungsrecht) und hat keine fachliche Verantwortung. Er erhält Aufträge direkt von Geschäftsführung. Er dient dazu Abteilungsübergreifende Änderungen durchzuführen
+<br><br><img alt="reine-projektorganisation.jpg" src="lib\media\reine-projektorganisation.jpg"><br>
+<br>reine Projektorganisation
+<br>Projektleiter hat volles Weisungsrecht
+<br>verwendetes Personal wird komplett aus Stammorganisation hinausgezogen, wodurch sie dort fehlen
+<br>Wiedereingliederung der Mitarbeiter, nach Abschluss des Projekts, kann schwer sein
+<br><br><img alt="matrixorganisation.jpg" src="lib\media\matrixorganisation.jpg"><br>
+<br>Mitarbeiter stehen nur zu einem prozentualen Teil ihrer Zeit dem Projektleiter zur Verfügung. Der Rest ihrer Zeit verbringen sie weiterhin in der Stammorganisation
+<br>Nachteil sind "2 Chefs"
+]]></description><link>itp\projektorganisation.html</link><guid isPermaLink="false">ITP/Projektorganisation.md</guid><pubDate>Mon, 19 May 2025 17:34:24 GMT</pubDate><enclosure url="lib\media\stabsorganisation.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\stabsorganisation.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Scrum]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="Scrum-Master" href="itp\scrum-master.html" class="internal-link" target="_self" rel="noopener nofollow">Scrum-Master</a>
+<br><a data-href="Product Owner" href="itp\product-owner.html" class="internal-link" target="_self" rel="noopener nofollow">Product Owner</a>
+<br><a data-href="Entwicklerteam" href="itp\entwicklerteam.html" class="internal-link" target="_self" rel="noopener nofollow">Entwicklerteam</a>
+<br><br><br>Userstory allgemeine Product Backlog Item (PBI)<br>
+Product<br>Kreislauf<br>
+1 Tag<br>
+Sprint planning<br>
+vor letzter Tag<br>
+review<br>Am ende von jedem Sprint entsteht ein Increment<br>
+Das ende von scrum projekt nennt man Artifact<br>Product Owner gibt Userstorys aus Productbacklog an Entwicklerteam weiter.<br>
+Entwickler überlegen kleine Schritte die nötig sind um US zu erreichen und deren Zeitaufwand.<br>
+In Sprint Backlog kommen die Schritte die tatsächlich im Sprint umgesetzt werden können<br>FELIX CASTS SEW: EXTENDS EXTEND IRGENDEINE KLASSE!!!<br>
+Die Gruppe der Entwickler ist <a data-href="Cross functional" href="itp\cross-functional.html" class="internal-link" target="_self" rel="noopener nofollow">Cross functional</a><br>Daily Scrum<br>
+was habe ich Gestern gemacht<br>
+was mache ich Heute<br>
+Was hindert mich an dem was ich heute machen will<br>
+PO nimmt optional teil (z.B. wen Userstory nicht klar ist)<br>Scrum Master<br>
+schaut das meetings eingehalten werden aka Framework einhalten<br>
+Sprint retospektive(am ende vom sprint) : was möchten wir konkret besser machen<br>Review<br>
+Meeting bei dem Artefakt entsteht, welches dem Auftraggeber vorgestellt wird. Dieser entscheidet ob er dieses Artefakt einsetzen kann oder ob eine weiter Sprint notwendig ist.<br>Stakeholder eines Scrum teams<br>
+Management, Kunde, Auftraggeber <br>Sprint planning<br>
+Aus dem Product backlog wird der Sprint backlog erstellt]]></description><link>itp\scrum.html</link><guid isPermaLink="false">ITP/Scrum.md</guid><pubDate>Tue, 06 May 2025 10:55:41 GMT</pubDate></item><item><title><![CDATA[Scrum-Master]]></title><description><![CDATA[ 
+ <br><br>
+<br>Mit dem Entwicklerteam <a data-href="Sprint Retrospektive" href="itp\sprint-retrospektive.html" class="internal-link" target="_self" rel="noopener nofollow">Sprint Retrospektive</a>n-Maßnahmen umsetzen
+<br>Den Entwickler:innen helfen, neues technisches Verständnis zu erwerben.
+<br>Neuen Scrum-Teams beim Umstieg auf Scrum helfen
+<br>Materialnachschub fürs Taskboard organisieren
+<br>Ohr auf Scrum-Team haben und Einzelgespräche mit Productowner und Entwickler führen
+<br>Hindernisse aufnehmen und bei der Behebung unterstützen<br>
+Und viel mehr
+]]></description><link>itp\scrum-master.html</link><guid isPermaLink="false">ITP/Scrum-Master.md</guid><pubDate>Tue, 06 May 2025 10:55:41 GMT</pubDate></item><item><title><![CDATA[Sprint Backlog]]></title><description><![CDATA[ 
+ ]]></description><link>itp\sprint-backlog.html</link><guid isPermaLink="false">ITP/Sprint Backlog.md</guid><pubDate>Mon, 31 Mar 2025 05:52:45 GMT</pubDate></item><item><title><![CDATA[Sprint Retrospektive]]></title><description><![CDATA[ 
+ <br>Dauer 1-2h<br>
+Findet am Ende eines Sprints statt (Nach Sprint-review). In diesem Meeting wird besprochen:<br>
+Was hat in unserem Team gut funktioniert?<br>
+Was hat nicht gut funktioniert?<br>
+Welche konkreten Maßnahmen wollen wir im nächsten Sprint umsetzen?]]></description><link>itp\sprint-retrospektive.html</link><guid isPermaLink="false">ITP/Sprint Retrospektive.md</guid><pubDate>Tue, 06 May 2025 10:55:42 GMT</pubDate></item><item><title><![CDATA[Teamphasen nach Tuckmen]]></title><description><![CDATA[ 
+ <br><br><br>Kennenlernen<br><br>Konflikte<br><br>Definition der Rollen, Ziele und Spielregeln<br><br>Beste Leistung des Teams<br><br>Auflösung des Teams]]></description><link>itp\teamphasen-nach-tuckmen.html</link><guid isPermaLink="false">ITP/Teamphasen nach Tuckmen.md</guid><pubDate>Tue, 06 May 2025 11:36:59 GMT</pubDate></item><item><title><![CDATA[UML]]></title><description><![CDATA[ 
+ <br>Gegenstück ist im klassischen Projektablauf das Wasserfallmodell (Unter Modell von <a data-href="Phasenmodell" href="itp\phasenmodell.html" class="internal-link" target="_self" rel="noopener nofollow">Phasenmodell</a>)<br><br>Statische Sicht<br>Unter Punkte<br>
+<br>Klassen-Diagramm
+<br>Objekt-Diagramm
+<br><br>dynamische Sicht (Zeitlich)<br>Unter Punkte<br>
+<br>Aktivitäts-Diagramm
+<br>Zustands-Diagramm
+<br>Sequenz-Diagramm
+]]></description><link>itp\uml.html</link><guid isPermaLink="false">ITP/UML.md</guid><pubDate>Tue, 06 May 2025 10:55:42 GMT</pubDate></item><item><title><![CDATA[Unternehmensorganisationen]]></title><description><![CDATA[ 
+ <br>Unterteilt sich in diese 2 Organisationsarten<br><br>mit Organigramm<br>
+<img alt="organigramm.avif" src="lib\media\organigramm.avif"><br><br>Flowchart / Flussdiagramm, Abläufe]]></description><link>itp\unternehmensorganisationen.html</link><guid isPermaLink="false">ITP/Unternehmensorganisationen.md</guid><pubDate>Mon, 19 May 2025 17:23:00 GMT</pubDate><enclosure url="lib\media\organigramm.avif" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\organigramm.avif&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Vorgehensweisen]]></title><description><![CDATA[ 
+ <br><br>Scrum, Konban, XP<br>
+Ursprung in der Software-Entwicklung<br>
+2000 sind diese Agile V. entstanden da für Entwickler die klassischen V. nicht gut für sie waren<br>
+In den kurzen Zeitabschnitten wird genau das gemacht was geplant wurde, Impulse werden nicht während diesen Abschnitten wahrgenommen.<br>
+Einzige Ausnahme wenn Sprint Backlog nicht gut umgesetzt ist, dann können andere User storys umgesetzt werden. Dies gilt jedoch eigentlich zu vermeiden<br><br>Wasserfallmodel, V-Modell, Spiralmodell]]></description><link>itp\vorgehensweisen.html</link><guid isPermaLink="false">ITP/Vorgehensweisen.md</guid><pubDate>Tue, 06 May 2025 10:55:34 GMT</pubDate></item><item><title><![CDATA[apk (binary) reverse engineering]]></title><description><![CDATA[ 
+ <br><br>Ghidra (von NSA) um binarys auf assambly zu decompilen<br>file (dateityp finden)<br>
+strings (Menschenlesbares in Bytefiles)<br>
+xxd (hex editor)<br>file verwenden -&gt; format herausfinden -&gt; googlen wie man entpackt<br>
+7zip installieren -&gt; damit apk entpacken<br>xargs nimmt input und führt mit diesem befehle aus. In dem Fall nimmt es jede Datei aus dem WD und gibt aus welchen Dateityp diese haben]]></description><link>itsi\apk-(binary)-reverse-engineering.html</link><guid isPermaLink="false">ITSI/apk (binary) reverse engineering.md</guid><pubDate>Tue, 20 May 2025 06:14:08 GMT</pubDate></item><item><title><![CDATA[Diffie-Hellman-Schlüsselaustausch]]></title><description><![CDATA[ 
+ <br>Wird verwendet um symmetrischen Schlüssel (AES: berühmteste symmetrische Verschlüsselung Methode) über unsicheres Medium auszutauschen<br><br>Alice - Bob<br>öffentliche Parameter (darf jeder kennen)<br>
+<br>
+<br>Beide generieren einen öffentlichen und einen privaten "Schlüssel"<br>
+Alice<br>
+Bob<br>
+<br>Beide schicken ihren öffentlichen "Schlüssel" (A und B) über das unsicher Medium und berechnen dann aus dem erhaltenem "Schlüssel" und ihrem privaten "Schlüssel", den tatsächlichen Schlüssel für eine symmetrische Verschlüsselung<br><br><br><br><br>IPsec verwendet (welches wiederum bei <a data-href="VPN" href="nwti\vpn.html" class="internal-link" target="_self" rel="noopener nofollow">VPN</a>s verwendet wird)<br>
+Https -&gt; tls kann diffe-hellman verwenden]]></description><link>itsi\diffie-hellman-schlüsselaustausch.html</link><guid isPermaLink="false">ITSI/Diffie-Hellman-Schlüsselaustausch.md</guid><pubDate>Thu, 10 Apr 2025 09:18:13 GMT</pubDate></item><item><title><![CDATA[Excel Virus]]></title><description><![CDATA[ 
+ <br>
+<br>Schritt: was für ein Dateityp ist der Virus wirklich<br>
+FAT32
+<br>olevba installieren (Python tool um excel viren zu analysieren)<br>
+Zeigt wenn es auf Virus ausgeführt wird die excel macros die excel sheet ausführt
+<br>Decodieren<br>
+I1 = 447.0<br>
+BT21 = CHAR(CA1473-401) =&gt; 'p' die Werte werden so geändert, dass immer noch 'p' als Ergebnis kommt<br>
+CA1473 = 513.0<br>
+Diese Character werden zu befehlen zusammen gesetzt die den Virus bilden
+]]></description><link>itsi\excel-virus.html</link><guid isPermaLink="false">ITSI/Excel Virus.md</guid><pubDate>Tue, 20 May 2025 06:14:08 GMT</pubDate></item><item><title><![CDATA[Hash]]></title><description><![CDATA[ 
+ <br>hash-only-1 in picoctf<br>ls -&gt; flaghasher<br>
+file flaghasher -&gt; setuid ELF 64-bit ...<br>
+ls -l -&gt; -rwsr-xr-x flaghasher<br>
+./flaghasher<br>
+schreibt irgendwas in /root/<br>strings flaghasher]]></description><link>itsi\hash.html</link><guid isPermaLink="false">ITSI/Hash.md</guid><pubDate>Thu, 08 May 2025 09:24:32 GMT</pubDate></item><item><title><![CDATA[Tips von günter]]></title><description><![CDATA[ 
+ <br><br>decompiled mit mehreren decompilern gleichzeitig.<br>
+Irgendeiner wird schon richtig sein<br><br>entry ist funktion in libc die main funktion aufruft]]></description><link>itsi\tips-von-günter.html</link><guid isPermaLink="false">ITSI/Tips von günter.md</guid><pubDate>Thu, 27 Mar 2025 10:11:59 GMT</pubDate></item><item><title><![CDATA[xor]]></title><description><![CDATA[ 
+ <br>Folgende Rechenregeln gelten für die binäre XOR Operation.<br>]]></description><link>itsi\xor.html</link><guid isPermaLink="false">ITSI/xor.md</guid><pubDate>Tue, 20 May 2025 06:14:09 GMT</pubDate></item><item><title><![CDATA[Ableitungen weiterer Grundfunktionen]]></title><description><![CDATA[ 
+ <br><br>
+<br>Exponentialfunktion
+<br><br>
+<br>Logarithmusfunktion
+<br><br>
+<br>Kreis Funktionen
+<br><br>x in Bogenmaß<br>
+<br>Arkusfunktionen
+<br><br><br>
+<br>Faktorregel (FR)<br>
+<br>
+<br>
+ -&gt; Konstante
+<br><br>
+<br>Summenregel (SR)<br>
+<br>
+
+<br><br>
+<br>Produktregel (PR)<br>
+<br>
+
+<br><br>
+<br>Quotientenregel (QR)<br>
+<br>
+
+<br><br>
+<br>Kettenregel (KR)<br>
+ &amp; <br>
+also: <br>
+dann gilt:<br>
+
+]]></description><link>mathematik\ableitungen.html</link><guid isPermaLink="false">Mathematik/Ableitungen.md</guid><pubDate>Mon, 05 May 2025 07:31:22 GMT</pubDate></item><item><title><![CDATA[Code Analyse]]></title><description><![CDATA[ 
+ <br><br><br>einkaufsliste.js<br>loop durch alle Einkaufslisteneinträge (Eistee, Brotaufstrich, Mikrowellenpopcorn, etc.) und wenn diese keine checkbox sind wird eine checkbox hinzugefügt<br>function addCheckboxesToListItems() {  
+    document.querySelectorAll('ul#einkaufsliste &gt; li li').forEach(item =&gt; {  
+        if (!item.querySelector('input[type=checkbox]')) {  
+            addCheckboxToListItem(item);  
+        }  
+    });  
+}
+<br>nimmt Einkaufslisteneintrag, umschließt es in &lt;label&gt;, fügt davor eine checkbox ein checkbox toggled die Klasse 'item-done'<br>function addCheckboxToListItem(item) {  
+    let label = document.createElement('label');  
+    let checkbox = document.createElement('input');  
+    checkbox.setAttribute('type', 'checkbox');  
+    checkbox.addEventListener('change', (e) =&gt; {  
+        label.classList.toggle('item-done', e.target.checked);  
+    });  
+  
+    label.appendChild(checkbox);  
+    label.appendChild(document.createTextNode(item.innerText));  
+  
+    item.replaceChildren(label);  
+}
+<br>baut die Auswahlmöglichkeiten beim hinzufügen von Einkaufslisteneinträgen löscht alle Auswahlmöglichkeiten, holt dann alle Kategorien von Einkaufsliste erstellt dann option mit geholtem String von Kategorien fügt option an Auswahl an<br>function buildCategoryList() {  
+    let selectList = document.getElementById('kategorie-neu');  
+    selectList.replaceChildren();  
+  
+    document.querySelectorAll('ul#einkaufsliste &gt; li').forEach(item =&gt; {  
+        let kategorie = item.querySelector('span').textContent;  
+  
+        let option = document.createElement('option');  
+        option.textContent = kategorie;  
+        option.value = item.classList[0];  
+        selectList.appendChild(option);  
+    });  
+}
+<br>erstellt Einkaufslisteneintrag fügt checkbox hinzu, fügt fertigen Eintrag in Kategorie ein  <br>function createListItem(produkt, kategorieKlasse) {  
+    let newItem = document.createElement('li');  
+    newItem.textContent = produkt;  
+    addCheckboxToListItem(newItem);  
+  
+    document.querySelector(`li.${kategorieKlasse} &gt; ul`).appendChild(newItem);  
+}
+<br>Erstellt Einkaufslisteneintrag wenn 'Produkt hinzufügen' gedrückt wird<br>document.getElementById('button-neu').addEventListener('click', () =&gt; {  
+    createListItem(  
+        document.getElementById('produkt-neu').value,  
+        document.getElementById('kategorie-neu').value  
+    );  
+});  
+  
+buildCategoryList();  
+addCheckboxesToListItems();
+<br><br>einkaufsliste.css<br>ul#einkaufsliste ul {  
+  padding-bottom: 1rem;  
+}  
+  
+ul#einkaufsliste &gt; li &gt; span {  
+  font-weight: bold;  
+}  
+  
+ul#einkaufsliste .item-done {  
+  text-decoration: line-through;  
+  color: #777;  
+}
+<br><br>index.html<br>&lt;!DOCTYPE html&gt;  
+&lt;html lang="de"&gt;  
+&lt;head&gt;  
+  &lt;meta charset="UTF-8"&gt;  
+  &lt;link rel="stylesheet" href="css/einkaufsliste.css"&gt;  
+  &lt;title&gt;Einkaufsliste&lt;/title&gt;  
+&lt;/head&gt;  
+&lt;body&gt;  
+&lt;h1&gt;Meine Einkaufsliste&lt;/h1&gt;  
+&lt;p&gt;Folgende Dinge müssen noch besorgt werden:&lt;/p&gt;  
+&lt;form&gt;  
+  &lt;select name="kategorie" id="kategorie-neu"&gt;&lt;/select&gt;  
+  &lt;input type="text" name="produkt" id="produkt-neu" placeholder="Produkt ..."&gt;  
+  &lt;button type="button" id="button-neu"&gt;Produkt hinzufügen&lt;/button&gt;  
+  &lt;ul id="einkaufsliste"&gt;  
+    &lt;li class="lebensmittel"&gt;  
+      &lt;span&gt;Lebensmittel&lt;/span&gt;  
+      &lt;ul&gt;  
+        &lt;li&gt;Eistee&lt;/li&gt;  
+        &lt;li&gt;Brotaufstrich&lt;/li&gt;  
+        &lt;li&gt;Mikrowellenpopcorn&lt;/li&gt;  
+      &lt;/ul&gt;  
+    &lt;/li&gt;  
+    &lt;li class="chemikalien"&gt;  
+      &lt;span&gt;Chemikalien&lt;/span&gt;  
+      &lt;ul&gt;  
+        &lt;li&gt;Roter Phosphor&lt;/li&gt;  
+        &lt;li&gt;Nitroglyzerin&lt;/li&gt;  
+      &lt;/ul&gt;  
+    &lt;/li&gt;  
+    &lt;li class="medikamente"&gt;  
+      &lt;span&gt;Medikamente&lt;/span&gt;  
+      &lt;ul&gt;  
+        &lt;li&gt;Schmerzmittel&lt;/li&gt;  
+        &lt;li&gt;Aufputschmittel&lt;/li&gt;  
+        &lt;li&gt;Medizinisches Cannabis&lt;/li&gt;  
+      &lt;/ul&gt;  
+    &lt;/li&gt;  
+  &lt;/ul&gt;  
+&lt;/form&gt;  
+&lt;script src="js/einkaufsliste.js"&gt;&lt;/script&gt;  
+&lt;/body&gt;  
+&lt;/html&gt;
+]]></description><link>medt\einkaufsliste-javascript.html</link><guid isPermaLink="false">MEDT/Einkaufsliste Javascript.md</guid><pubDate>Tue, 01 Apr 2025 06:17:18 GMT</pubDate></item><item><title><![CDATA[Messenger]]></title><description><![CDATA[ 
+ <br><br>
+<br>username
+<br>password
+<br>profilepicture
+<br><br>
+<br>member
+<br>messages
+<br><br>
+<br>author
+<br>content
+<br>time it was sent
+<br><br>1-N User : N Channel<br>
+1 User : N Message<br>
+1 Channel : N Message<br>mindestens ein Nutzer hat beliebig viele Channel<br>
+Ein Nutzer hat beliebig viele Nachrichten<br>
+Ein Channel hat beliebig viele Nachrichten<br><br>
+<br>Channels haben keinen Admin. Werden bei verlassen der letzten Person gelöscht
+]]></description><link>mysql\messenger.html</link><guid isPermaLink="false">MYSQL/Messenger.md</guid><pubDate>Tue, 22 Apr 2025 11:55:14 GMT</pubDate></item><item><title><![CDATA[Mysql Backups]]></title><description><![CDATA[ 
+ <br>mysqldump -u username -p dbname &gt; backup.sql<br>Erstellt ein Full backup<br>
+Andere backups sind z. B. Incremental backup]]></description><link>mysql\mysql-backups.html</link><guid isPermaLink="false">MYSQL/Mysql Backups.md</guid><pubDate>Tue, 22 Apr 2025 11:55:05 GMT</pubDate></item><item><title><![CDATA[Mysql installieren]]></title><description><![CDATA[ 
+ <br>Mysql installieren<br>Select Features to install<br>
+Client Programms<br>Cancle]]></description><link>mysql\mysql-installieren.html</link><guid isPermaLink="false">MYSQL/Mysql installieren.md</guid><pubDate>Tue, 22 Apr 2025 11:55:04 GMT</pubDate></item><item><title><![CDATA[Transactions]]></title><description><![CDATA[ 
+ <br>Konto1 ---------50€------&gt; Konto2<br>
+-50 UPDATE                         UPDATE +50<br>Transaction über wacht Update1 und Update2 wenn beide OK sind werden die Ergebnisse erst in die Datenbank geschrieben (Write)<br>START TRANSACTION;<br>
+SELECT @A:=SUM(salary) FROM table1 WHERE type=1;<br>
+UPDATE table2 SET summary=@A WHERE type=1;<br>
+COMMIT;]]></description><link>mysql\transactions.html</link><guid isPermaLink="false">MYSQL/Transactions.md</guid><pubDate>Tue, 22 Apr 2025 11:55:02 GMT</pubDate></item><item><title><![CDATA[User in mysql]]></title><description><![CDATA[ 
+ <br>CREATE USER 'Linus'@'%' IDENTIFIED BY 'keinpasswort'<br>
+GRANT UPDATE, SELECT on bank.* TO 'linus'@'%';]]></description><link>mysql\user-in-mysql.html</link><guid isPermaLink="false">MYSQL/User in mysql.md</guid><pubDate>Tue, 22 Apr 2025 11:55:00 GMT</pubDate></item><item><title><![CDATA[Wichtige Mysql Befehle]]></title><description><![CDATA[ 
+ <br>]]></description><link>mysql\wichtige-mysql-befehle.html</link><guid isPermaLink="false">MYSQL/Wichtige Mysql Befehle.md</guid><pubDate>Tue, 22 Apr 2025 11:54:58 GMT</pubDate></item><item><title><![CDATA[Cisco Router Konfigurieren]]></title><description><![CDATA[ 
+ <br><br><br><br><br>enable
+configure terminal
+interface fa0/1
+ip address 10.0.0.2 255.255.255.252
+exit
+ip route &lt;ziel net&gt; &lt;mask&gt; &lt;next hop&gt; &lt;Metrik&gt;
+no shut
+router rip
+version 2
+network &lt;zu verteilendes Netz&gt; &lt;Subnetmask&gt;
+show ip route (Routingtabelle anzeigen)
+write
+copy running-cofig startup-config
+<br><br>enable
+configure terminal
+router rip
+version 2
+network &lt;Netz welches am Router angeschlossen ist(z.B.:192.168.0.0)&gt;
+<br><br>enable
+configure terminal
+router ospf &lt;Prozess-ID&gt;
+network &lt;Netz welches am Router angeschlossen ist&gt; &lt;Wildcard-Mask&gt; area &lt;N&gt;
+<br>Kosten können auf Interfaces gesetzt werden<br>enable
+configure terminal
+int &lt;interfaces&gt;
+ip ospf cost &lt;Kosten-Zahl&gt;
+]]></description><link>nwti\cisco-router-konfigurieren.html</link><guid isPermaLink="false">NWTI/Cisco Router Konfigurieren.md</guid><pubDate>Mon, 19 May 2025 14:19:24 GMT</pubDate></item><item><title><![CDATA[DHCP-Protokoll]]></title><description><![CDATA[ 
+ <br><br>Sollte auf selben Rechner wie domain-controller laufen. Wenn es keinen domain-controller gibt (wie z.B. bei Heimnetz) läuft der DHCP-Server meist auf Router.<br>
+Liefert:<br>
+<br>IP-Adressen-Reservierung
+<br>Subnetzmaske
+<br>Gateway
+<br>2xDNS-Server (IP)
+<br>Kommt zum Einsatz, wenn Client noch nie zuvor im Netz des Servers war (oder lease-time abgelaufen ist)<br><br>Läuft auf Endgerät (PC, Laptop, Drucker)<br>NIC (Network Interface Controller)<br><br>
+<br>Client (Weiß noch gar nichts): Schickt Broadcast und hat selbst IP-Adr. 0.0.0.0
+<br>3 Fälle
+
+<br>Es gibt keinen DHCP-Server: Client bekommt keine IP oder Windows Standard IP
+<br>Es gibt einen DHCP-Server: Server schickt Client oben genannte Daten (IP, etc.)
+<br>Es gibt mehr als einen DHCP-Server:
+
+
+]]></description><link>nwti\dhcp-protokoll.html</link><guid isPermaLink="false">NWTI/DHCP-Protokoll.md</guid><pubDate>Fri, 25 Apr 2025 07:47:30 GMT</pubDate></item><item><title><![CDATA[Software Firewall (aka. personal Firewall)]]></title><description><![CDATA[ 
+ <br>Arbeitet von OSI Layer 2-7<br><img alt="Pasted image 20250331081154.png" src="lib\media\pasted-image-20250331081154.png"><br>
+<img alt="Pasted image 20250331082228.png" src="lib\media\pasted-image-20250331082228.png"><br><br>Rennt auf Endgerät<br>Arbeitet typischer weiße auf OSI-Layer 5 aufwärts<br><br>Auch bekannt als: externe Firewall, vorgelagerte Firewall, dedizierte Firewall<br>Arbeitet typischer weiße auf OSI-Layer 3 und 4<br><br>Meist wird nur der Header analysiert, da Daten meist verschlüsselt sind und sie so groß sind, dass es zu teuer (zeit intensiv) wäre um Daten sinnvoll zu analysieren.<br><br>Schaut jedes Paket ohne Kontext an<br><br>kann Kontext, wie z.B. Antworten auf von innen gesendete Pakete, erkennen.<br><br>Analysiert nicht nur Header sondern auch Daten des Pakets.<br>
+Ist bei verschlüsselten Daten wie eine Man-in-the-Middle-Angriff.<br>
+Der Client muss wissen, dass eine Firewall im Weg ist, damit keine Man-in-the-Middle-Attacke anschlägt. Dafür darf die Firewall nicht transparent sein und dem Client muss ein Zertifikat zu Verfügung gestellt werden das die Firewall auch hat.<br>
+IP-Packet hat ca. 1,5 kByte<br><br>Ist die Firewall transparent, sieht ein Prozess, dass die Firewall "im Weg" ist.<br>
+Sonst sieht der Prozess nichts<br><br>Meist wird etwas blockiert durchgelassen oder weiter geleitet<br>
+Meist wird alles "gelogged" aber es kann auch Regel oder Port abhängig "gelogged" werden<br>Regeln werden meist untereinander Sortiert die erste Regel die blockieren würde blockiert. Darunter liegende Regeln werden meist nicht weitergeleitet.<br>
+Dies ist Hardware schonender<br>Bei neuerer Hardware können auch alle Einträge durchlaufen werden <br><br><br>
+<br>lässt grundsätzlich nichts durch außer Listeneinträge
+<br><br>Was schaut sich die an<br>stateful - inspection vs stateless inspection <br>das der versteht was eine verbindung ist]]></description><link>nwti\firewall.html</link><guid isPermaLink="false">NWTI/Firewall.md</guid><pubDate>Mon, 05 May 2025 06:38:08 GMT</pubDate><enclosure url="lib\media\pasted-image-20250331081154.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250331081154.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[IPv6]]></title><description><![CDATA[ 
+ <br><br>IPv4 mit 32bit hat zu wenige IP's. Dieses Problem wurde mit öffentlichen und privaten IP-Adressen umgangen (NAT und PAT). Heutzutage wäre ein Umstieg auf IPv6 theoretisch möglich und wird teilweise gemacht, aber IPv6 ist noch lange nicht überall im Einsatz. Wurde Ende der 90er Jahre eingeführt<br><br>
+<br>Länge: 128bit
+<br>(übliche) Schreibweise: x:x:x:x:x:x:x:x (mit x = 2Byte = 16bit in hexadezimal) z.B.: 
+<br>fe80::d55f:5687:435a:d2cf
+<br>Man darf einmal pro Adresse einen oder mehr "Nullerblöcke" (:0000:) mit :: ersetzen
+<br>Führende Nuller werden weggelassen also: f5 = 00f5
+<br>Die URI Darstellung von IPv6 ist in eckigen Klammern: [&lt;ip&gt;]
+<br>ersten 8 byte prefix, letzten 8 byte identifier
+<br>Man bekommt nicht eine IP-Adresse sondern einen ganzen Adressbereich ( Adressen)
+<br>194B:001C:0341:0000:0000:0FFF:0000:CB4F -&gt; 194B:1C:341::FFF:0:CB4F<br>
+4B::3A:0:FF -&gt; 004B:0000:0000:0000:0000:003A:0000:00FF<br>194B:001C:0341:0000:0000:0FFF:0000:CB4F:10.14.7.199]]></description><link>nwti\ipv6.html</link><guid isPermaLink="false">NWTI/IPv6.md</guid><pubDate>Mon, 19 May 2025 06:35:18 GMT</pubDate></item><item><title><![CDATA[OSPF]]></title><description><![CDATA[ 
+ <br>
+<br>"Open Shortest Path First" ist ein sogenanntes Interior Gateway Protokoll. bei Internet Service Providern (ISP) für internes Routing.
+<br>zählt zu den Link-State-Protokollen -&gt; Routingentscheidungen auf Basis der Qualität (z.B. Übertragungsgeschwindigkeit / Bandbreite, Verfügbarkeit einer Verbindung) des Links bzw. der Verbindungen
+<br>"Kosten" können manuell für jede Verbindung konfiguriert werden
+<br>Routingentscheidungen basieren auf den geringsten Kosten
+<br><br>
+<br>"Hello"-Pakete werden auf allen aktivierten Interfaces mit Multicast ins Netzwerk geschickt.
+<br>Nachbarn antworten mit Unicast-Paketen
+<br>LSA (Link State Advertisments) werden ausgetauscht und LSDB (Link State Daten Bank) wird aufgebaut
+<br>Dijkstra-Algorithmus wandelt die Informationen in der LSDB in eine Routingtabelle um.
+<br>Danach wird basierend auf dieser Tabelle (geringste Kosten die Routingentscheidung) getroffen
+]]></description><link>nwti\ospf.html</link><guid isPermaLink="false">NWTI/OSPF.md</guid><pubDate>Mon, 19 May 2025 13:37:53 GMT</pubDate></item><item><title><![CDATA[Packet Tracer Aufgaben]]></title><description><![CDATA[ 
+ <br><br>
+<br>Client-IP-Netze für Wien, Graz und Linz bestimmen
+<br>Subnet-Mask für Clientnetze bestimmen
+<br>IP-Konfiguration der Notebooks in den Clientnetzen
+<br>Datei speichern unter "3BHITS_NWT_Lichtenwallner_20250303"
+<br>Hostname von Router &amp; Switch ändern
+<br>Allen Router-Interfaces die entsprechenden IP-Adressen zuweisen
+<br>Clientnetze: 10.16.1.0/24<br>Wien: 100 Hosts -&gt; Netz-IP: 10.16.1.0 /25<br>
+Graz: 50 Hosts -&gt; Netz-IP: 10.16.1.128 /26<br>
+Linz: 50 Hosts -&gt; Netz-IP: 10.16.1.192 /26<br>Linknetze:<br>
+LN01: Wien(1) - Graz(2)<br>
+LN02: Graz(1) - Linz(2)<br>
+LN03: Linz(1) - Wien(2)]]></description><link>nwti\packet-tracer-aufgaben.html</link><guid isPermaLink="false">NWTI/Packet Tracer Aufgaben.md</guid><pubDate>Fri, 25 Apr 2025 07:47:39 GMT</pubDate></item><item><title><![CDATA[RIP]]></title><description><![CDATA[ 
+ <br>Routing Information Protocol<br>
+Ist ein dynamisches Routing Protokoll welches UDP am Port 520 verwendet<br>
+<br>RIPv1:
+
+<br>Class-based-Protokoll
+<br>keine Authentifizierungsmöglichkeiten
+<br>keine Multicast Unterstützung
+
+
+<br>RIPv2:
+
+<br>Class-less-Protokoll
+<br>Authentifizierungsmöglichkeiten
+<br>Multicast Unterstützung
+
+
+<br>RIPng:
+
+<br>fügt IPv6 Unterstützung hinzu
+
+
+<br><br>
+<br>
+Es ist ein Distance-Vector-Protokoll. Heißt:
+
+<br>Distance ist bekannt (next hops, maximal 15 hops)
+<br>Vector ist bekannt (Richtung ist bekannt)
+
+
+<br>
+(Es hat nie überblick über das gesamte Netzwerk)
+
+<br>
+Dadurch, dass die Distance nur maximal 15 hops lang sein kann, ist das Protokoll auf sehr kleine Netze limitiert.
+
+<br>
+Es verschickt alle 30 Sekunden die eigenen Netzwerkinformationen an benachbarte Router.
+
+<br>
+Konvergenz: zustand in dem alle Router in einem Netzwerk die selben &amp; aktuellen Netzwerkinformationen besitzen
+
+<br>
+Konfiguration ist einfach
+
+<br>
+Sehr langsam
+
+]]></description><link>nwti\rip.html</link><guid isPermaLink="false">NWTI/RIP.md</guid><pubDate>Mon, 05 May 2025 13:35:55 GMT</pubDate></item><item><title><![CDATA[Untitled 1]]></title><description><![CDATA[ 
+ <img src="lib\media\link-aggregation.png" draggable="false">Link Aggregation.png<br>Core-Switch<br>
+Switch1<br>
+Switch2<br>
+Switch3<br>
+Switch4<br>
+Switch5]]></description><link>nwti\untitled-1.html</link><guid isPermaLink="false">NWTI/Untitled 1.canvas</guid><pubDate>Fri, 25 Apr 2025 07:47:09 GMT</pubDate><enclosure url="lib\media\link-aggregation.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\link-aggregation.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Virtuelle LANs]]></title><description><![CDATA[ 
+ <br><br>Auftrennung einer großen Broadcast-Domäne in kleinere Segmente / Broadcast-Domänen<br>Segmentierung basierend auf:<br>
+Endgerätetypen (Notebooks, Drucker, IP-Telefonie, etc.)<br>
+Abteilungen, Stockwerke<br>
+-&gt; VLANs ermöglichen eine Priorisierung von Datenpaketen<br><br>
+<br>VLAN10: Notebootks/PC
+<br>VLAN20: Drucker
+<br>VLAN30: IP-Telefonie
+<br>VLAN40: Grafiker
+<br>VLAN50: Endgeräte auf Accesspoints (WLAN)
+<br>VLAN-Tag wird der Frame angehängt<br>
+VLAN-IP<br>
+Priorität<br><img alt="Pasted image 20250307102318.png" src="lib\media\pasted-image-20250307102318.png"><br>
+Im Fall dieser Abbildung (Kreise = Endgeräte) gibt kein Standard für VLANs vor, eine VLAN_ID mit zuschicken. Paket von linken Switch ist im VLAN 1 und schickt Paket an Gerät an Port im VLAN 2.<br>
+IEEE 802.1Q legt <br><img alt="Ethernet_802.1Q_Insert.svg" src="lib\media\ethernet_802.1q_insert.svg"><br>Es gibt dynamische Methoden und es gibt Port basierte Methoden<br>
+Einfachste Methode VLANs zu implementieren ist die Port-basierte Methode<br><br>IP-Paket entweder mit oder ohne Tag. Tags werden benötigt, wenn z.B. 2 Switches 2 VLANs haben (auf jedem Switch sind Ports von beiden VLANs). In dem Fall würde man ohne Tags jedes VLAN mit einem physischen Kabel verbinden müssen. Mit Tags braucht man nur noch eine Verbindung (namens VLAN Trunk). Meist können nur Switches mit diesen Tags(bytes im header) umgehen, weshalb die VLAN Tags in den Paketen bevor sie am Endgerät ankommen entfernt werden müssen.]]></description><link>nwti\vlans.html</link><guid isPermaLink="false">NWTI/VLANS.md</guid><pubDate>Mon, 28 Apr 2025 11:28:39 GMT</pubDate><enclosure url="lib\media\pasted-image-20250307102318.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250307102318.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[VPN]]></title><description><![CDATA[ 
+ <br>Virtual private network<br>Tunneling<br>Rechner verbindet sich über unsicheres Medium mit einem LAN. Über einen Tunnel kann mit Blick auf die Funktionalität die selbe Qualität erreicht werden als ob man physisch im LAN wäre.<br>Software Lösung<br>
+Kann funktionieren, ist aber als Applikation nicht "tief genug im System" um wirklich zu garantieren, dass man einen Tunnel verwendet<br>Hardware<br>
+Laptop geht in Tunnelschnittstelle diese stellt sicher, dass man mit der Tunnelschnittstelle vom Ziel LAN verbunden ist.<br>VPN Anbieter<br>
+Diese Werben damit über eine VPN-Verbindung Geoblockings zu umgehen. Teilweise werben Sie auch mit Sicherheit im Internet (weil Verbindung ist verschlüsselt)<br>VPN Anbieter selber spielen<br>
+(Links sind nicht Teil des Stoffes :) )<br>
+<a rel="noopener nofollow" class="external-link" href="https://www.wireguard.com/install/" target="_blank">https://www.wireguard.com/install/</a><br>
+<a rel="noopener nofollow" class="external-link" href="https://github.com/WeeJeWel/wg-easy" target="_blank">https://github.com/WeeJeWel/wg-easy</a>]]></description><link>nwti\vpn.html</link><guid isPermaLink="false">NWTI/VPN.md</guid><pubDate>Sun, 27 Apr 2025 19:24:12 GMT</pubDate></item><item><title><![CDATA[Zertifikate]]></title><description><![CDATA[ 
+ <br>Eine Art Authentifizierung<br>
+CA Certification Authorities ]]></description><link>nwti\zertifikate.html</link><guid isPermaLink="false">NWTI/Zertifikate.md</guid><pubDate>Mon, 05 May 2025 06:40:02 GMT</pubDate></item><item><title><![CDATA[InstallerBuilder]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="https://jrsoftware.org/isinfo.php" rel="noopener nofollow" class="external-link" href="https://jrsoftware.org/isinfo.php" target="_blank">InnoSetup</a> (nur .exe, opensource glaub ich, auf jeden Fall gratis)
+<br><a data-tooltip-position="top" aria-label="https://info.revenera.com/is-eval-installshield-professional" rel="noopener nofollow" class="external-link" href="https://info.revenera.com/is-eval-installshield-professional" target="_blank">InstallShield</a> (exe und msi)
+<br><a data-tooltip-position="top" aria-label="https://www.firegiant.com/wixtoolset/" rel="noopener nofollow" class="external-link" href="https://www.firegiant.com/wixtoolset/" target="_blank">WiX</a> (Windows Installer XML)
+<br><a data-tooltip-position="top" aria-label="https://nsis.sourceforge.io/Download" rel="noopener nofollow" class="external-link" href="https://nsis.sourceforge.io/Download" target="_blank">NSIS</a>
+<br>jpackage (Integriert ab Java14)
+<br><br>Gibt<br>
+<br>.MSI (über WiX 3.x aus)
+<br>.DEB
+]]></description><link>sew\installerbuilder.html</link><guid isPermaLink="false">SEW/InstallerBuilder.md</guid><pubDate>Thu, 08 May 2025 08:21:29 GMT</pubDate></item><item><title><![CDATA[Reguläre Ausdrücke]]></title><description><![CDATA[ 
+ <br>Zum Üben: <a data-tooltip-position="top" aria-label="https://regex101.com/" rel="noopener nofollow" class="external-link" href="https://regex101.com/" target="_blank">regex101</a><br>
+Reguläre Ausdrücke (engl. regular expressions) auch Regex genannt, sind Zeichenketten auf Basis syntaktischer Regeln, die es ermöglichen, Zeichenfolgen zu beschreiben.<br>
+z.B.: Bei einem String soll überprüft werden, ob er nur bestimmte Zeichen enthält sowie eine Länge  1 Zeichen aufweist. Zulässig sind: Buchstaben (ASCII a-z), Ziffern, spezifische Sonderzeichen.<br>
+Lösung:<br>^[A-Za-z0-9%!=#]+$
+<br><br><br><br><a data-tooltip-position="top" aria-label="https://jex.im/regulex" rel="noopener nofollow" class="external-link" href="https://jex.im/regulex" target="_blank">regulex</a>, <a data-tooltip-position="top" aria-label="https://regex-vis.com/" rel="noopener nofollow" class="external-link" href="https://regex-vis.com/" target="_blank">Regex Vis</a><br>
+Ein regulärer Ausdruck kann auch als Syntaxdiagramm dargestellt werden. Das Syntaxdiagramm beschreibt den regulären Ausdruck, indem es in grafischer Form zeigt, welche Strings gebildet werden können.<br><br>Beispiel:<br>
+<img alt="Pasted image 20250507082426.png" src="lib\media\pasted-image-20250507082426.png"><br><br>String regularExpression = "^[A-Za-z0-9%!=#]+$";
+String stringToValidate = "3BHITS";
+
+//1. Möglichkeit
+if (stringToValidate.matches(regularExpression)) {
+	System.out.printf("%s is valid.\n", stringToValidate);
+}
+
+//2. Möglichkeit
+Pattern pattern = Pattern.compile(regularExpression);
+if (pattern.matcher(stringToValidate).matches()) {
+	System.out.printf("%s is valid.\n", stringToValidate);
+}
+]]></description><link>sew\reguläre-ausdrücke.html</link><guid isPermaLink="false">SEW/Reguläre Ausdrücke.md</guid><pubDate>Wed, 07 May 2025 06:33:58 GMT</pubDate><enclosure url="lib\media\pasted-image-20250507081209.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250507081209.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Rekursion]]></title><description><![CDATA[ 
+ <br>Rekursion ist eine Methode bei der eine Funktion sich selbst aufruft. Diese Vorgehensweise bietet eine Möglichkeit, komplizierte Probleme in einfachere Teilprobleme zu zerlegen, die leichter zu lösen sind.<br>Beispiel: Fibonacci Zahlen<br>
+<img alt="Pasted image 20250409083439.png" src="lib\media\pasted-image-20250409083439.png"><br>
+Es ergibt sich für die ersten n folgender Werteverlauf<br><br>Berechnet die Fibonacci Stelle n:<br>public int fib(int n) {
+	if (n == 1) {
+		return 1;
+	}
+	if (n == 2) {
+		return 1;
+	}
+	return fib(n - 1) + fib(n - 2);
+}
+<br>Bsp: n = 4<br><img alt="Pasted image 20250409084248.png" src="lib\media\pasted-image-20250409084248.png">]]></description><link>sew\rekursion.html</link><guid isPermaLink="false">SEW/Rekursion.md</guid><pubDate>Wed, 09 Apr 2025 06:42:50 GMT</pubDate><enclosure url="lib\media\pasted-image-20250409083439.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250409083439.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Software testen]]></title><description><![CDATA[ 
+ <br>Um eine hohe Qualität der auszuliefernden Software sicherzustellen ist es notwendig diese intensiv zu testen<br><br><br><img alt="Pasted image 20250219084106.png" src="lib\media\pasted-image-20250219084106.png"><br>
+Das Testen erfolgt mit Blick auf die implementierte Logik.<br>
+Vorteile:<br>
+<br>Die interne Funktionsweise kann komplett getestet werden.
+<br>Gut automatisierbar durch Testtool (z.B. JUnit)<br>
+Nachteile:
+<br>Eventuell Testen um "Fehler herum"
+<br>Erfüllung der gesamten Spezifikation wird nicht überprüft.
+<br><br><img alt="Pasted image 20250219084243.png" src="lib\media\pasted-image-20250219084243.png"><br>
+Nur nach außen sichtbares Verhalten fließt in den Test ein.<br>
+Vorteile:<br>
+<br>Gute Verifikation der gesamten Anwendung
+<br>Testen ist unabhängig von der Programmiersprache<br>
+Nachteile:
+<br>Neuer Code wird nur durch Zufall geteilt
+<br>Schlecht / Schwer automatisierbar
+]]></description><link>sew\software-testen.html</link><guid isPermaLink="false">SEW/Software testen.md</guid><pubDate>Wed, 02 Apr 2025 17:07:01 GMT</pubDate><enclosure url="lib\media\pasted-image-20250219084106.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250219084106.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Datenbankverbindung]]></title><description><![CDATA[ 
+ <br>Symfony verwendet ein "Programm", dass sich Doctrine nennt. In folgenden Schritten wird dieses Programm installiert und konfiguriert um einen Datenbank auf localhost zu erstellen<br><br>composer require symfony/orm-pack
+composer require --dev symfony/maker-bundle
+<br><br>im Projekt unter ./config/packages/doctrine.yaml wird in doctrine:dbal: folgende Zeilen eingefügt<br>doctrine:
+	dbal:
+		driver: 'pdo_mysql'
+		server_version: '5.7.24'
+		charset: utf8mb4
+		host: 127.0.0.1
+		port: 3306
+		user: '%env(DATABASE_USER)%'
+		password: '%env(DATABASE_PWD)%'
+		dbname: '%env(DATABASE_NAME)%'
+		profiling_collect_backtrace: '%kernel.debug%'
+		use_savepoints: true
+<br>Im ./.env<br>DATABASE_USER="root"
+DATABASE_PWD="root"
+DATABASE_NAME="messprototyp"
+<br>Finde nun mit diesem Befehl deine von php geladene Konfigurationsdatei<br>php --ini
+<br>In der oben gefundenen Datei (php.ini) wird ein ; entfernt. Suche dafür in deinem Editor nach folgender Zeile und entferne das 1. Zeichen.<br>;extension=pdo_mysql
+<br>Nun ist alles konfiguriert und Befehle wie folgender sollten fehlerfrei ablaufen. Dieser Befehl erstellt die im .env eingestellte Datenbank ("messprototyp")<br>php bin/console doctrine:database:create
+]]></description><link>symfony\datenbankverbindung.html</link><guid isPermaLink="false">Symfony/Datenbankverbindung.md</guid><pubDate>Tue, 01 Apr 2025 13:31:57 GMT</pubDate></item><item><title><![CDATA[Forms]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://symfony.com/doc/current/forms.html" target="_blank">https://symfony.com/doc/current/forms.html</a><br>Scheinbar bietet das Symfony-Framwork eine einfache Methode Formulare zu generieren. Hierfür muss folgendes Composer-Package installiert werden<br>composer require symfony/form
+<br>In der Symfony-Dokumentation wird folgender empfohlener Workflow beschrieben: <br>
+<br>Ein Formular mit Controller oder einer eigenen Formularklasse bauen
+<br>Erstelle eine Vorlage (.twig) für den Nutzer
+<br>Verarbeite die erhaltenen Daten
+]]></description><link>symfony\forms.html</link><guid isPermaLink="false">Symfony/Forms.md</guid><pubDate>Tue, 01 Apr 2025 12:25:25 GMT</pubDate></item><item><title><![CDATA[Installation]]></title><description><![CDATA[ 
+ <br><br>Um einen lokalen Web-Server für dieses Projekt zu starten werden folgende Schritte empfohlen.<br><br>Das Repository clonen<br>
+git clone git@it.htl-hl.ac.at:220169/BablaNet.git
+
+<br>Scoop installieren (in Powershell)<br>
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+
+<br><a data-tooltip-position="top" aria-label="https://getcomposer.org/Composer-Setup.exe" rel="noopener nofollow" class="external-link" href="https://getcomposer.org/Composer-Setup.exe" target="_blank">Composer</a> installieren<br>Symfony installieren (in Powershell)<br>
+scoop install symfony-cli
+
+<br>In das Projektverzeichniss wechseln und Abhängigkeiten via composer installieren<br>
+cd BablaNet
+
+composer install
+
+<br>als nächstes muss Docker installiert werden. Dafür empfiehlt sich <a data-tooltip-position="top" aria-label="https://docs.docker.com/desktop/setup/install/windows-install/" rel="noopener nofollow" class="external-link" href="https://docs.docker.com/desktop/setup/install/windows-install/" target="_blank">Docker-Desktop</a>.<br>Nun Muss im Projekt-Verzeichniss die Datei .env.dev.local erstellt werden. In ihr muss diese Zeile stehen.<br>
+DATABASE_URL="mysql://&lt;user&gt;:&lt;passwort&gt;@127.0.0.1:3306/babladb?serverVersion=5.7.24&amp;charset=utf8"
+
+<br>Aktiviere nun die PDO_mysql extension. Dafür führe diesen Befehl aus.<br>
+php --ini
+
+<br>Öffne die im Befehl zurückgegebene Datei und lösche das Semikolon (;) vom Anfang der folgenden Zeile<br>
+;extension=pdo_mysql
+
+<br>Nun muss die Datenbank eingerichtet werden.<br>
+php bin/console doctrine:database:create
+
+<br>Docker<br>
+<br>
+Docker Desktop starten und den Installationsanweisungen folgen.
+
+<br>
+docker-compose up im Projekt-Verzeichniss
+
+<br>
+In der Docker Desktop app das Projekt aus wählen und alle programme bis auf mercure wieder stoppen.
+
+]]></description><link>symfony\komplettanleitung-babla.html</link><guid isPermaLink="false">Symfony/Komplettanleitung Babla.md</guid><pubDate>Thu, 08 May 2025 12:23:00 GMT</pubDate></item><item><title><![CDATA[Log Datei nicht löschbar]]></title><description><![CDATA[ 
+ <br><br>
+<br>erstelle ps1 Datei mit Inhalt
+<br>symfony server:start
+Start-Process http://127.0.0.1:8000
+<br>
+<br>führe dieses aus.
+<br>stoppe den symfony dev server mit STRG + C
+<br>Sieh Fehler wie diesen
+<br>remove C:\Users\linus\.symfony5\log\25dce057d68b675e750eec12a0aa24db7455a052.log:The process cannot access the file because it is being used by another process.
+<br><br>
+<br>.log Datei händisch löschen -&gt; nach Server start und ende wird neues .log erstellt welches von cli nicht gelöscht werden kann
+<br>Laptop neustarten
+<br>mit ressourcenmonitor zugeordnete handles für file suchen
+<br>jeden Prozess mit php schließen
+]]></description><link>symfony\log-datei-nicht-löschbar.html</link><guid isPermaLink="false">Symfony/Log Datei nicht löschbar.md</guid><pubDate>Tue, 25 Mar 2025 19:35:26 GMT</pubDate></item><item><title><![CDATA[Mercure]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://symfony.com/doc/current/mercure.html#running-a-mercure-hub" target="_blank">https://symfony.com/doc/current/mercure.html#running-a-mercure-hub</a><br>Um Mercure auf dem Symfony local Server zu ver wenden muss dieser nun mit der option --no-tls gestartet werden (keine Ahnung was -d macht)<br>symfony server:start --no-tls -d
+<br><br>composer require mercure
+]]></description><link>symfony\mercure.html</link><guid isPermaLink="false">Symfony/Mercure.md</guid><pubDate>Tue, 01 Apr 2025 17:00:13 GMT</pubDate></item><item><title><![CDATA[Nutzer]]></title><description><![CDATA[ 
+ <br><br>Sollte in der Datei /composer.json die Zeile "symfony/security-bundle": "7.2.*" nicht vorhanden sein, führe diesen Befehl aus<br>composer require symfony/security-bundle
+<br>Als nächstes erstelle einen Nutzer. Hierfür muss alles von <a data-href="Datenbankverbindung" href="symfony\datenbankverbindung.html" class="internal-link" target="_self" rel="noopener nofollow">Datenbankverbindung</a> funktionieren.<br>php bin/console make:user
+<br>Obiger Befehl stellt viele Fragen. Diese können im Normalfall mit einem einfachen Enter beantwortet werden.<br>Nun wurde eine Datei /src/Entity/User.php erstellt. Jedoch existiert noch keine Tabelle in der Datenbank. diese wird mit Befehlen um eine Migration zu machen in die Datenbank geschrieben.<br>php bin/console make:migration
+php bin/console doctrine:migrations:migrate
+<br><br>Führe diesen Befehl aus um eine Login Seite zu generieren<br>php bin/console make:security:form-login
+]]></description><link>symfony\nutzer.html</link><guid isPermaLink="false">Symfony/Nutzer.md</guid><pubDate>Wed, 23 Apr 2025 17:11:06 GMT</pubDate></item><item><title><![CDATA[Symfony installieren & Projekt erstellen]]></title><description><![CDATA[ 
+ <br><br>Starte die PowerShell und führe folgende Befehle aus um das Programm "scoop" zu installieren. Dieses Programm wird verwendet um die "symfony-cli" zu installieren.<br>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+<br><br>Installiere den "Paket-Manager" von PHP mit diesem Link<br>
+<a rel="noopener nofollow" class="external-link" href="https://getcomposer.org/Composer-Setup.exe" target="_blank">https://getcomposer.org/Composer-Setup.exe</a><br><br>Die symfony-cli wird mit dem bereits installiertem scoop heruntergeladen<br>scoop install symfony-cli
+<br><br>Bevor nun das Projekt erstellt wird sollte man folgenden Befehl verwenden um zu sehen ob symfony korrekt installiert wurde<br>symfony check:requirements
+<br>Wenn bis jetzt nichts Fehlgeschlagen hat, kann mit diesem Befehl ein Folder im Working-Directory erstellt werden in dem das Symfony-Projekt erstellt wird<br>symfony new my_project_directory --version="7.2.x" --webapp
+<br><br>Um jetzt das Projekt zu testen kann lokal ein Server gestartet werden. Dafür muss man sich natürlich im Verzeichnis des Projekts befinden.<br>cd my_project_directory
+symfony server:start
+]]></description><link>symfony\symfony-installieren-&amp;-projekt-erstellen.html</link><guid isPermaLink="false">Symfony/Symfony installieren &amp; Projekt erstellen.md</guid><pubDate>Tue, 25 Mar 2025 19:15:35 GMT</pubDate></item><item><title><![CDATA[Wichtige links und Notizen]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://symfony.com/doc/current/doctrine.html#relationships-and-associations" target="_blank">https://symfony.com/doc/current/doctrine.html#relationships-and-associations</a><br>Symfony Map<br>
+<a rel="noopener nofollow" class="external-link" href="https://symfony.com/bundles/ux-map/current/index.html#available-renderers" target="_blank">https://symfony.com/bundles/ux-map/current/index.html#available-renderers</a><br>Wirklich wichtig :|]]></description><link>symfony\wichtige-links-und-notizen.html</link><guid isPermaLink="false">Symfony/Wichtige links und Notizen.md</guid><pubDate>Tue, 01 Apr 2025 12:07:38 GMT</pubDate></item><item><title><![CDATA[Script um User IDs auszulesen]]></title><description><![CDATA[ 
+ <br>a.ClientId<br>
+Add-DhcpServerv4Reservation -ScopeId 10.0.2.0 -IPAddress 10.0.2.55 -ClientId $a.ClientId -Description "Testreservierung" -Name "DebianTest"<br>
+Get-DhcpServerv4Reservation -ScopeId 10.0.2.0<br>Geht nicht<br>
+Set-DhcpServerv4Reservation -IPAddress 10.0.2.55 -ClientId $a.ClientId -Description "Testreservierung" -Name "Debian"<br>
+Remove-DhcpServerv4Reservation -ScopeId 10.0.2.0 -ClientId $a.ClientId]]></description><link>syt_bs\windows-server\script-um-user-ids-auszulesen.html</link><guid isPermaLink="false">SYT_BS/Windows-Server/Script um User IDs auszulesen.md</guid><pubDate>Thu, 20 Mar 2025 13:33:24 GMT</pubDate></item><item><title><![CDATA[Windows DNS]]></title><description><![CDATA[ 
+ <br>Install-WindowsFeature DNS -IncludeManagementTools
+<br>tools -&gt; DNS<br>
+DNS-Server konfigurieren<br>
+RMB -&gt; neue Zone<br>
+weiter<br>
+primäre zone<br>
+forward lookupzone<br>
+zonenname: 3bhits.local<br>
+neue datei mit diesem namen erstellen<br>
+dynamische updates nicht zulassen<br>
+Soll dieser server weiterleiten? -&gt; nein<br>
+<br>Foward-Lookupzonen -&gt; 3bhits.local<br>
+RMB -&gt; neuer host<br>
+www<br>
+ipaddr: irgendwas (z.B 10.0.2.12)<br>
+hosthinzufügen<br>www (geht auf) -&gt; 10.0.2.12<br>im DHCP-Server muss nun der DNS-Server vergeben werden]]></description><link>syt_bs\windows-server\windows-dns.html</link><guid isPermaLink="false">SYT_BS/Windows-Server/Windows DNS.md</guid><pubDate>Thu, 10 Apr 2025 12:49:41 GMT</pubDate></item><item><title><![CDATA[Fragen]]></title><description><![CDATA[ 
+ <br><br>
+<br>Welche optionen muss man übergen<br>
+A: dns standard-gateway
+<br>
+<br>statische ip<br>Netzwerkverbindungen<br>
+Doppel click<br>
+Eigenschaften<br>
+Internetprotokoll v4<br><br><br>
+<br>Verwalten -&gt; Features hinzufügen
+<br>Serverrollen auswählen
+<br>DNS
+<br>DHCP
+<br>weiter weiter ...
+<br>zur Sicherheit nach Download neu starten
+<br><br>Tools -&gt; DHCP<br>
+Aufklappen<br>
+IPv4<br>
+RMB- Neuer Bereich<br>
+name: DHCP_3bhits<br>
+start: 10.0.10.100<br>
+end: 10.0.10.200<br>
+Lease: 8 Tage<br>
+Router: 10.0.1.1<br>Bereichsoptionen <br>
+<br>Wichtig sind: DNS-Server und Router
+<br>Möglich:
+<br>in Leases RMB auf Webserver -&gt; Reservierung hinzufürgen<br><br>Tools -&gt; DNS<br>
+DNS-Server konfigurieren<br>
+Schritte wie in <a data-href="Windows DNS" href="syt_bs\windows-server\windows-dns.html" class="internal-link" target="_self" rel="noopener nofollow">Windows DNS</a><br><br>/etc/apache2/sites-available/000<br>&lt;VirualHost *:80&gt;
+ServerName www.3bhits.local
+...
+<br>Dafür braucht man eine 2. Forward lookup zone mit dem namen: www2<br>
+/etc/apache2/sites-available/001<br>&lt;VirualHost *:80&gt;
+ServerName www2.3bhits.local
+...
+]]></description><link>syt_bs\windows-server\windows-komplett-anleitung.html</link><guid isPermaLink="false">SYT_BS/Windows-Server/Windows komplett Anleitung.md</guid><pubDate>Thu, 10 Apr 2025 13:52:44 GMT</pubDate></item><item><title><![CDATA[Windows-DHCP]]></title><description><![CDATA[ 
+ <br>Root123<br>
+^ Passwort<br><br>
+<br>Fixe IP-Adresse
+<br><br><br>Install-WindowsFeature DHCP -IncludeManagementTools
+Add-DhcpServerv4Scope -Name "Was ich will" -StartRange 10.0.2.100 -Endrange 10.0.2.200 -SubnetMask 255.255.255.0
+Get-Service | Where-Object { $_.Name -ilike "*dhcp*" }
+Get-DhcpServerv4Scope
+
+<br>Window-Dhcp standard ist es den ganzen IP Bereich in range einzustellen und dann mit Exclusionranges addressen auszunehmen.<br>
+Diese Ausgenommenen IPs sind für Geräte die auch ohne, dass der DHCP-Server funktioniert eine IP brauchen<br>Add-DhcpServerv4ExclusionRange -ScopeId 10.0.2.0 -StartRange 10.0.2.150 -EndRange 10.0.2.200
+Set-DhcpServerv4OptionValue -ScopeId 10.0.2.0 -Router 10.0.2.1 -DnsServer 10.0.2.5 -force
+Get-DhcpServerv4OptionValue -ScopeId 10.0.2.0
+Get-DhcpServerv4Lease -ScopeId 10.0.2.0 | Format-List
+<br>Warum Client-Id<br>
+Weil cloud computing: dadurch, dass diese Maschinen irgendwo mit irgendwelcher Hardware gestartet wird. Wenn man will, dass die IP-reservierung die selbe bleibt kann man sich nicht auf mac-addresse verlassen.<br>Add-DhcpServerv4Reservation -ScopeId 10.0.2.0 -IPAddress 10.2.0.50 -ClientId &lt;ID&gt; -Name &lt;NAME&gt;
+]]></description><link>syt_bs\windows-server\windows-dhcp.html</link><guid isPermaLink="false">SYT_BS/Windows-Server/Windows-DHCP.md</guid><pubDate>Wed, 02 Apr 2025 17:10:36 GMT</pubDate></item><item><title><![CDATA[Windows-SSH]]></title><description><![CDATA[ 
+ <br>Windows Powershell öffnen und schauen ob sshd da ist<br>Get-Service sshd
+Start-Service sshd
+Set-Service sshd -StartupType 'Automatic'
+
+ssh Administrator@localhost
+<br><br>SOLLTE MAN WISSEN<br><br>Windows Defender Firewall mit erweiterter Sicherheit<br>
+<br>eingehende Regeln
+<br>Neue Regel
+<br>Port 22
+<br><br>Für normale Nutzerkonten<br>ssh-keygen
+scp
+cp "nach ~/.shh/authorized_keys"
+<br>Für Administratoren<br>cat .\key.pub &gt;&gt; C:\ProgramData\ssh\administrators_authorized_keys
+]]></description><link>syt_bs\windows-server\windows-ssh.html</link><guid isPermaLink="false">SYT_BS/Windows-Server/Windows-SSH.md</guid><pubDate>Thu, 03 Apr 2025 06:19:30 GMT</pubDate></item><item><title><![CDATA[Aufgabe]]></title><description><![CDATA[ 
+ <br>MÜSSEN .14 und .13 sein<br>DNS lastverteilung <br>A Record www .13<br>
+A Record www .14]]></description><link>syt_bs\aufgabe.html</link><guid isPermaLink="false">SYT_BS/Aufgabe.md</guid><pubDate>Thu, 03 Apr 2025 12:48:24 GMT</pubDate></item><item><title><![CDATA[Debian für Dummis]]></title><description><![CDATA[ 
+ <br><br><br>Auf "Neu" (Blauer Igel symbol) drücken<br><br>Ordner:		C:\Users\linus\VirtualBox VMs
+ISO Abbild:	C:\Users\linus\Downloads\debian-12.7.0-amd64-netinst.iso
+✓(Check)	Unbeaufsichtigte Installation überspringen
+<br><br>Hauptspeicher:	4096MB
+Prozessoren:	3
+EFI		✓(Check)
+<br><br>40GB
+<br><br>Unter Werkzeuge -&gt; Netzwerk -&gt; NAT-Netzwerke<br>
+Erzeugen<br>
+<br>Name: 3BHITS<br>
+sichern<br>
+Rechtsklick auf deine VM
+<br>Netzwerk
+<br>Angeschlossen an: NAT-Netzwerk
+<br>Name: 3BHITS
+<br><br>Wähle deine gerade erstellte VM (Virtuelle Maschine) aus und drücke "starten"<br>
+<br>Advanced options ...
+<br>... Expert Install<br>
+Choo
+]]></description><link>syt_bs\debian-für-dummis.html</link><guid isPermaLink="false">SYT_BS/Debian für Dummis.md</guid><pubDate>Thu, 03 Apr 2025 06:10:08 GMT</pubDate></item><item><title><![CDATA[DNS Server]]></title><description><![CDATA[ 
+ <br>13 root dns server (A-M)<br>
+Hunderte Instanzen dieser Server über selben IPs (13 für 13 Server) mit anycast erreichbar<br>Jeder DNS-Server besitzt Root Hints ()<br><br>Verwaltet von root dns servern<br>
+<br>Länder (.at, .de)
+<br>.com
+<br>.org
+<br>Weil root dns server von "usa" verwaltet wird und diese top level domains vergeben, kritisieren manche staaten diese, da sie keine top level domain bekommen. (nicht anerkannter Staat)<br><br>Tool: nslookup<br><a data-tooltip-position="top" aria-label="http://www.htl-hl.ac.at" rel="noopener nofollow" class="external-link" href="http://www.htl-hl.ac.at" target="_blank">www.htl-hl.ac.at</a><br>Recursive lookup (Von root Server zu tatsächlichen namen)<br>
+1 Wer ist zuständig für .at -&gt; mehrere Server<br>
+2 einen dieser .at server fragen wer für .htl-hl zuständig ab<br><br>193.170.204.18<br>
+18.204.170.193.in-addr.arpa<br>DNS Server werden von niederen Dns Servern und Clients gecachet um last von ihnen zu nehmen. Root Dns server werden am längsten gecachet je weiter "unten" des du kürzer wird gecachet<br>Resolver: löst für clients resolve abfragen. (Schul dns server)<br>
+OpenResolver (z.B. google 8.8.8.8): Jeder darf zugreifen. Zu vermeiden wenn man selbst versucht Resolver zu machen. DNS verwendet utp (sehr leicht source ip zu ändern). DNS Server liefern bei kleinen anfragen große antworten. Nun kann wegen utp die dst ip geändert werden -&gt; dos attacken werden leicht<br>Diese Attacke nennt sich DNS Amplification attack<br>Zonen Betreuer: liefern nur antworten für die<br><br>apt install bind9
+<br>aufgabe: welche files sind in /etc/bind dafür verantwortlich einen "gescheiten dns server" zu machen<br>cd /etc/bind
+<br>/etc/bind/named.conf.options<br>forwarders {
+    8.8.8.8;
+    8.8.4.4;
+};
+<br>/etc/bind/named.conf.local<br>zone "3bhits.local" {
+	type master;
+	file "/etc/bind/zones/db.3bhits.local";
+};
+<br>cp db.local db.3bhits.local
+<br>/etc/bind/db.3bhits.local<br>$TTL    604800
+@       IN      SOA     3bhits.local. root.3bhits.local. (
+                              2         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+;
+@       IN      NS      3bhits.local.     ; 
+@       IN      A       10.0.2.5             ; ip vom dhcp/dns server
+<br>mkdir zones
+mv db.3bhits.local ./zones/db.3bhits.local
+<br>/etc/bind/zones/db.3bhits.local<br>$TTL    604800
+@       IN      SOA     ns.3bhits.local. admin.3bhits.local. (
+                              2         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+;
+@       IN      NS      ns.3bhits.local.
+@       IN      A       10.0.2.5
+ns      IN      A       10.0.2.5
+www     IN      A       10.0.2.10
+<br><br>Install-WindowsFeature DNS -IncludeManagementTools
+<br>
+<br>
+tools -&gt; DNS
+
+<br>
+DNS-Server konfigurieren
+
+<br>
+RMB -&gt; neue Zone
+
+<br>weiter
+<br>primäre zone
+<br>forward lookupzone
+<br>zonenname: 3bhits.local
+<br>neue datei mit diesem namen erstellen
+<br>dynamische updates nicht zulassen
+<br>Soll dieser server weiterleiten? -&gt; nein
+
+
+<br>
+Foward-Lookupzonen -&gt; 3bhits.local
+
+<br>RMB -&gt; neuer host
+<br>www
+<br>ipaddr: irgendwas (z.B 10.0.2.12)
+<br>hosthinzufügen
+
+
+<br>www (geht auf) -&gt; 10.0.2.12<br>im DHCP-Server muss nun der DNS-Server vergeben werden<br>]]></description><link>syt_bs\dns-server.html</link><guid isPermaLink="false">SYT_BS/DNS Server.md</guid><pubDate>Thu, 24 Apr 2025 09:09:38 GMT</pubDate></item><item><title><![CDATA[SSH Host Config]]></title><description><![CDATA[ 
+ <br>~/.ssh/config<br>
+Host    dhcp<br>
+Hostname localhost<br>
+user user<br>
+Port 6223<br>
+IdentityFile C:\Users\linus\Documents\Schule\2024-25\SYT\mykeys\id_3bhits_rsa<br>Ermöglicht kürzeren Befehl um sich via ssh zu verbinden.<br>
+ssh dhcp<br>
+new-alias d .\sshDhcp.ps1 -f]]></description><link>syt_bs\ssh-host-config.html</link><guid isPermaLink="false">SYT_BS/SSH Host Config.md</guid><pubDate>Thu, 03 Apr 2025 06:10:10 GMT</pubDate></item><item><title><![CDATA[VM login via ssh]]></title><description><![CDATA[ 
+ <br>scp -P 6222 C:\Users\linus\Documents\Schule\2024-25\SYT\mykeys\id_3bhits_rsa.pub user@localhost:<br>ssh user@localhost -i C:\Users\linus\Documents\Schule\2024-25\SYT\mykeys\id_3bhits_rsa -p 6222<br>authorized_keys
+]]></description><link>syt_bs\vm-login-via-ssh.html</link><guid isPermaLink="false">SYT_BS/VM login via ssh.md</guid><pubDate>Thu, 03 Apr 2025 06:16:40 GMT</pubDate></item><item><title><![CDATA[Webserver]]></title><description><![CDATA[ 
+ <br>Apache2<br>Man brauch zum Aufrufen eines Webservers einen Browser<br>https:// ip<br>Webserver liefert html. Selbst wenn php verwendet wird, wird diese zu html kompiliert<br>apt install apache2<br>nginx<br>
+IIS<br>Es ist möglich mehrere Webseiten auf einem Webserver rennen zu lassen.<br><br>cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/001-seite1.conf<br>in diesem file den port auf 81 und document root auf /var/www/seite 1<br>cd /var/www <br>
+mkdir seite1<br>
+touch index.html<br>a2ensite<br>
+a2dissite<br>nvim /etc/apache2/ports.conf 	Listen 81<br>lynx ip]]></description><link>syt_bs\webserver.html</link><guid isPermaLink="false">SYT_BS/Webserver.md</guid><pubDate>Thu, 03 Apr 2025 06:19:02 GMT</pubDate></item><item><title><![CDATA[Windows Server (Graphisch)]]></title><description><![CDATA[ 
+ <br>Windows Server 2025 Standard (Desktopdarstellung)<br>
+Create Partition<br>Server Manager<br>
+<br>Serverrollen
+
+<br>DHCP-Server
+<br>DNS-Server
+<br>Webserver
+
+
+<br><br>Verwaltungstool einschliesen<br>
+Remote server verwaltungs tools<br>
+Reboot<br>IP]]></description><link>syt_bs\windows-server-(graphisch).html</link><guid isPermaLink="false">SYT_BS/Windows Server (Graphisch).md</guid><pubDate>Thu, 03 Apr 2025 06:19:10 GMT</pubDate></item><item><title><![CDATA[Frequenz abhängigkeiten]]></title><description><![CDATA[ 
+ <br>Wiederstand R -&gt; garnicht<br>
+L -&gt; <br>
+w-&gt; 0 =&gt;  -&gt; 0 -&gt; KS<br>
+w -&gt;  =&gt;  -&gt;  -&gt; LL<br>C -&gt; <br>
+w-&gt;  =&gt;  -&gt; 0 -&gt; KS<br>
+w -&gt; 0 =&gt;  -&gt;  -&gt; LL<br>In Serienschaltung<br><img alt="Pasted image 20250422105334.png" src="lib\media\pasted-image-20250422105334.png"><br>
+Z -&gt; Impedanz<br>
+imaginär<br>
+<br>
+<br><br><br>
+w -&gt; 0 -&gt; <br>
+w -&gt;  -&gt;  -&gt; 0<br>Grenzfrequenz :<br>
+Realteil = Imaginärteil<br>
+<br><br><br> =&gt; -3dB<br><br>Diagramm einfügen<br>Dekade (*10)<br>
+Abfall von 20dB pro Dekade<br>-6dB pro Oktave (*2)<br><br><br>
+<br>
+<br>
+Immer wenn es um Spannungsverhältnis geht -&gt; 20 (nicht 10)<br>arg <br><br>hohe Frequenz -&gt; geht durch<br>
+tiefe Frequenz -&gt; wird weg geschnitten<br>Diagramm einfügen<br>Steigung von 20dB pro Dekade<br>
++6dB pro Oktave (*2)<br><br><br>
+<br>
+<br><br>skizze einfügen<br> -&gt; 0:  -&gt; 0 =&gt; <br>
+ -&gt; :  -&gt;  =&gt; <br>diagramm einfügen<br>0dB -&gt; grenzfrequenz  () -&gt; -20dB/Dekade oder -6dB/Oktave<br><br>skizze einfügen<br> -&gt; 0:  -&gt; 0 =&gt; <br>
+ -&gt; :  -&gt;  =&gt; <br>diagramm einfügen<br>20dB/Dekade oder 6dB/Oktave -&gt; 0dB -&gt; grenzfrequenz  ()]]></description><link>syt_el\frequenz-abhängigkeiten.html</link><guid isPermaLink="false">SYT_EL/Frequenz abhängigkeiten.md</guid><pubDate>Tue, 06 May 2025 09:13:16 GMT</pubDate><enclosure url="lib\media\pasted-image-20250422105334.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250422105334.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Irgendwas log]]></title><description><![CDATA[ 
+ <br>log(10) = 1<br>log(10^2) = 2<br>
+log(10^3) = 3<br><img alt="Pasted image 20250401104413.png" src="lib\media\pasted-image-20250401104413.png"><br>
+<br>Diese mal 2 kommen von  (dritte Wurzel 10)<br>Was ist dezi?<br>
+x10<br> <br><br>
+An einem Widerstand hängen P und U, quadratisch zusammen<br><br>
+<br>G = 20 * lg(U2/U1)<br>G/20 = lg(U2/U1)<br>10^(G/20) = U2/U1<br>$U_2 / U_1 = $<br><br><br><br><br>Clipping: Signal ist lauter als obergrenze (digital)<br><br><br><img alt="Pasted image 20250408105125.png" src="lib\media\pasted-image-20250408105125.png"><br>
+<br>
+<br> (m für Leistungspegel -&gt; milli watt)
+<br>
+<br><br>
+Gesucht: 
+<br><br>
+ (vor logarithmieren war Subtraktion, Division -&gt; mW fällt weg)<br><br><br>
+<br><br><br>A= 6dB / Abstandsverdoppelung<br>
+Nach 10m -&gt; <br>
+Nach 20m -&gt; <br> und <br><br>Angabe:<br>
+Auf einer großen Freifläche soll im Abstand von 100m vom Lautsprecher ein Schalldruckpegel von 76dB SPL erreicht werden.<br>
+Berechnen Sie in welchem Abstand zum Lautsprecher die 100dB-Grenze überschritten wird.<br>100m -&gt; <br>
+?m -&gt; <br><br>24 / 6 = 4<br>
+-&gt; 4 mal halbieren<br>
+]]></description><link>syt_el\irgendwas-log.html</link><guid isPermaLink="false">SYT_EL/Irgendwas log.md</guid><pubDate>Tue, 06 May 2025 09:21:59 GMT</pubDate><enclosure url="lib\media\pasted-image-20250401104413.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib\media\pasted-image-20250401104413.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[TEST]]></title><description><![CDATA[ 
+ <br>]]></description><link>syt_el\test.html</link><guid isPermaLink="false">SYT_EL/TEST.md</guid><pubDate>Tue, 29 Apr 2025 08:43:55 GMT</pubDate></item><item><title><![CDATA[Wie verwend ich dieses Repository?]]></title><description><![CDATA[ 
+ <br><br>Clone das Repository<br>git clone git@github.com:GoCrin/obsidian_school.git
+<br>Öffne Obsidian und unten auf den Knopf der den Namen deines jetzigen Vaults anzeigt. Drücke, "Manage vaults". Nun drücke "open" und wähle den zuvor geklonten Ordner.<br>Hier kommt noch was...<br><br>
+<br>Abgabe INSY Projekt: 22.5.2025
+
+<br>Git Beschreibung (screenshoots) Präsentieren
+
+
+<br>NWTI Test 28. 4. 2025
+
+<br>Statische Routen (Theorie &amp; Praxis ohne Befehle)
+<br><a data-href="VLANS" href="nwti\vlans.html" class="internal-link" target="_self" rel="noopener nofollow">VLANS</a>
+<br><a data-href="VPN" href="nwti\vpn.html" class="internal-link" target="_self" rel="noopener nofollow">VPN</a> (Überblick)
+
+
+<br>ITP Test 23.5.2025
+
+<br>Feedback geben (Stichwort <a data-tooltip-position="top" aria-label="https://projekte-leicht-gemacht.de/blog/softskills/kommunikation/richtig-feedback-geben-der-feedback-burger/" rel="noopener nofollow" class="external-link" href="https://projekte-leicht-gemacht.de/blog/softskills/kommunikation/richtig-feedback-geben-der-feedback-burger/" target="_blank">Feedback Burger</a>)
+
+
+<br>UML Diagramme, Übersicht und Einteilung in Struktur- und Verhaltensdiagramme, Klassendiagramme (Klassen zeichnen, Assoziation, Aggregation, Komposition, Navigation, Mulitiplizität)
+<br><a data-href="Kano-Modell" href="itp\kano-modell.html" class="internal-link" target="_self" rel="noopener nofollow">Kano-Modell</a> mit den 5 Merkmalen
+<br><a data-href="Projekte" href="itp\projekte.html" class="internal-link" target="_self" rel="noopener nofollow">Projekte</a> inkl. Projektinstitutionen und Projektmerkmalen
+<br><a data-href="Magisches Projektdreieck" href="itp\magisches-projektdreieck.html" class="internal-link" target="_self" rel="noopener nofollow">Magisches Projektdreieck</a> (inkl. Erweiterung)
+<br><a data-href="Unternehmensorganisationen" href="itp\unternehmensorganisationen.html" class="internal-link" target="_self" rel="noopener nofollow">Unternehmensorganisationen</a> (grober Überblick mit den 2 Hauptorganisationen)
+<br><a data-href="Projektorganisation" href="itp\projektorganisation.html" class="internal-link" target="_self" rel="noopener nofollow">Projektorganisation</a> (3 Formen)
+
+
+]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Mon, 19 May 2025 18:07:46 GMT</pubDate></item></channel></rss>
