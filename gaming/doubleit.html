@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Double It</title>
+    <link rel="stylesheet" href="styles.css">
+    <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+</head>
+<body>
+<div id="owned_money">
+    500€
+</div>
+<div id="bet_money" class="animate__animated animate__bounce infinite">
+    10€
+</div>
+<div id="bet_controls">
+    <button type="button" id="bet_button">BET</button>
+    <button type="button" id="double_button">DOUBLE IT</button>
+    <button type="button" id="take_button">TAKE</button>
+</div>
+<div id="amount_controls">
+    <button type="button" id="min_button">MIN</button>
+    <button type="button" id="minus_ten_button">-10</button>
+    <input type="number" id="bet_amount_input">
+    <button type="button" id="plus_ten_button">+10</button>
+    <button type="button" id="max_button">MAX</button>
+</div>
+<script src="controller.js"></script>
+</body>
+</html>

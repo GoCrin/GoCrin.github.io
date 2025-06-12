@@ -1,0 +1,21 @@
+button,
+input,
+body {
+    font-family: bradley hand, cursive;
+}
+div {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#owned_money {
+    text-align: left;
+}
+
+#bet_money {
+    margin-top: 40vh;
+    margin-bottom: 30vh;
+    font-size: 50px;
+    rotate: 5deg;
+}
