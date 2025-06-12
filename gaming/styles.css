@@ -1,7 +1,7 @@
 button,
 input,
 body {
-    font-family: bradley hand, cursive;
+    font-family: 'JetBrains Mono';
 }
 div {
     margin: auto;
@@ -15,7 +15,14 @@ div {
 
 #bet_money {
     margin-top: 40vh;
-    margin-bottom: 30vh;
+    margin-bottom: 20vh;
     font-size: 50px;
     rotate: 5deg;
+}
+
+button,
+input {
+    height: 8vh;
+    width: 8vw;
+    font-size: 22px;
 }
